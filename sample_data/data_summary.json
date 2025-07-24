@@ -1,0 +1,31 @@
+{
+  "total_strategies": 5,
+  "total_chunks": 325,
+  "strategies": {
+    "semantic": {
+      "chunk_count": 60,
+      "avg_chunk_size": 150.68333333333334,
+      "file": "semantic_chunks.json"
+    },
+    "fixed_size": {
+      "chunk_count": 75,
+      "avg_chunk_size": 131.22666666666666,
+      "file": "fixed_size_chunks.json"
+    },
+    "overlap": {
+      "chunk_count": 65,
+      "avg_chunk_size": 158.76923076923077,
+      "file": "overlap_chunks.json"
+    },
+    "hierarchical": {
+      "chunk_count": 55,
+      "avg_chunk_size": 153.4,
+      "file": "hierarchical_chunks.json"
+    },
+    "content_aware": {
+      "chunk_count": 70,
+      "avg_chunk_size": 158.6,
+      "file": "content_aware_chunks.json"
+    }
+  }
+}

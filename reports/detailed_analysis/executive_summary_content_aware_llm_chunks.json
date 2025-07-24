@@ -1,0 +1,15 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "\n        Executive Summary: Document Processing Optimization Initiative\n        \n        Business Context\n        Our organization processes thousands of documents daily, requiring efficient and accurate information retrieval systems. Current approaches result in suboptimal performance and user dissatisfaction.\n        \n        Strategic Objectives\n        Primary goals include:\n        - Improve document retrieval accuracy by 25%\n        - Reduce processing time by 40%\n        - Enhance user satisfaction scores\n        - Support multiple document types and formats\n        \n        Implementation Strategy\n        Phase 1: Foundation (Months 1-3)\n        - Deploy semantic chunking capabilities\n        - Establish baseline performance metrics\n        - Train staff on new systems\n        \n        Phase 2: Optimization (Months 4-6)\n        - Implement content-aware chunking\n        - Fine-tune parameters based on usage patterns\n        - Integrate with existing document management systems\n        \n        Phase 3: Advanced Features (Months 7-12)\n        - Deploy hierarchical chunking\n        - Add multi-modal processing capabilities\n        - Implement real-time optimization\n        \n        Expected Outcomes\n        - 25% improvement in retrieval accuracy\n        - 40% reduction in processing time\n        - 30% increase in user satisfaction\n        - Support for 5 additional document types\n        \n        Risk Assessment\n        Primary risks include:\n        - Technical implementation challenges\n        - User adoption resistance\n        - Performance degradation during transition\n        - Integration complexity with existing systems\n        \n        Mitigation strategies include comprehensive testing, user training programs, and phased deployment approach.\n        \n        Resource Requirements\n        - Technical team: 4 developers, 2 data scientists\n        - Infrastructure: Cloud computing resources\n        - Training: User education and support materials\n        - Timeline: 12-month implementation period\n        \n        Success Metrics\n        Key performance indicators include:\n        - Document retrieval accuracy\n        - Processing time per document\n        - User satisfaction scores\n        - System uptime and reliability\n        - Cost per document processed\n        \n        Conclusion\n        This initiative represents a significant investment in our document processing capabilities. The expected benefits justify the required resources and implementation timeline.\n        ",
+    "strategy": "content_aware_llm",
+    "tokens": 267,
+    "metadata": {
+      "chunk_size": 267,
+      "word_count": 267,
+      "char_count": 2531,
+      "strategy_type": "content_aware_llm",
+      "content_aware_score": 0.88
+    }
+  }
+]

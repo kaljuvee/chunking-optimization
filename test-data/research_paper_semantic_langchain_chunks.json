@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "\n        Research Paper: Advanced Document Chunking Strategies for Information Retrieval\n        \n        Abstract\n        This paper presents novel approaches to document chunking that leverage machine learning and natural language processing techniques. We evaluate the effectiveness of semantic, content-aware, and hierarchical chunking strategies compared to traditional fixed-size approaches.\n        \n        Introduction\n        Information retrieval systems rely heavily on effective document segmentation. Traditional chunking methods use fixed-size windows, which often break semantic units and reduce retrieval effectiveness.",
+    "strategy": "semantic_langchain",
+    "tokens": 68,
+    "metadata": {
+      "chunk_size": 68,
+      "word_count": 68,
+      "char_count": 636,
+      "strategy_type": "semantic_langchain"
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Recent advances in natural language processing enable more intelligent chunking strategies.\n        \n        Related Work\n        Previous research has explored various chunking approaches:\n        - Fixed-size chunking (Lewis et al., 2020)\n        - Sentence boundary detection (Smith & Johnson, 2021)\n        - Semantic similarity clustering (Brown et al., 2022)\n        - Hierarchical document structure analysis (Davis & Wilson, 2023)\n        \n        Methodology\n        Our experimental setup includes:\n        - Dataset: 10,000 documents from various domains\n        - Evaluation metrics: Precision, Recall, F1-score, NDCG\n        - Baseline: Traditional fixed-size chunking\n        - Test strategies: Semantic, content-aware, hierarchical chunking\n        \n        Experimental Design\n        We conducted controlled experiments with the following parameters:\n        - Document types: Technical reports, legal documents, news articles\n        - Chunk sizes: 100-500 words\n        - Overlap ratios: 0-50%\n        - Evaluation queries: Domain-specific and general queries\n        \n        Results\n        Our experiments show significant improvements:\n        - Semantic chunking: 23.4% improvement in precision\n        - Content-aware chunking: 18.7% improvement in recall\n        - Hierarchical chunking: 31.2% improvement in F1-score\n        - Combined approach: 28.9% improvement in NDCG\n        \n        Analysis\n        The improvements are attributed to:\n        - Better preservation of semantic units\n        - Improved context retention\n        - More appropriate chunk boundaries\n        - Enhanced topic coherence\n        \n        Discussion\n        While advanced chunking strategies show clear benefits, they also introduce computational overhead.",
+    "strategy": "semantic_langchain",
+    "tokens": 190,
+    "metadata": {
+      "chunk_size": 190,
+      "word_count": 190,
+      "char_count": 1768,
+      "strategy_type": "semantic_langchain"
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "The trade-off between accuracy and efficiency must be carefully considered for practical applications.\n        \n        Limitations\n        Current limitations include:\n        - Computational complexity\n        - Domain-specific performance variations\n        - Limited evaluation on multi-modal documents\n        - Scalability concerns for large document collections\n        \n        Future Work\n        Planned research directions include:\n        - Multi-modal chunking strategies\n        - Real-time optimization algorithms\n        - Domain adaptation techniques\n        - Scalable implementation approaches\n        \n        Conclusion\n        Advanced chunking strategies provide substantial improvements over traditional approaches. Future work should focus on addressing computational complexity and scalability concerns.\n        \n        References\n        [1] Lewis, M., et al. (2020). \"Fixed-size chunking for information retrieval\"\n        [2] Smith, A., & Johnson, B. (2021). \"Sentence boundary detection in documents\"\n        [3] Brown, C., et al. (2022). \"Semantic similarity clustering for chunking\"\n        [4] Davis, E., & Wilson, F. (2023). \"Hierarchical document structure analysis\"\n        .",
+    "strategy": "semantic_langchain",
+    "tokens": 127,
+    "metadata": {
+      "chunk_size": 127,
+      "word_count": 127,
+      "char_count": 1212,
+      "strategy_type": "semantic_langchain"
+    }
+  }
+]

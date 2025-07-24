@@ -1,0 +1,41 @@
+[
+  {
+    "Strategy": "chunk_full_overlap",
+    "Query": "What are the main findings and recommendations?",
+    "Processing_Time": 2.0175688221946135,
+    "Chunks_Retrieved": 3,
+    "Generated_Response": "Simulated response for chunk_full_overlap strategy.",
+    "retrieval_precision": 0.7507835698134762,
+    "retrieval_recall": 0.6079990674642799,
+    "retrieval_f1": 0.5537647416635685,
+    "answer_accuracy": 0.6898464657864762,
+    "context_relevance": 0.8121527249996976,
+    "response_coherence": 0.846838571732637
+  },
+  {
+    "Strategy": "chunk_full_summary",
+    "Query": "What are the main findings and recommendations?",
+    "Processing_Time": 2.156113045912736,
+    "Chunks_Retrieved": 3,
+    "Generated_Response": "Simulated response for chunk_full_summary strategy.",
+    "retrieval_precision": 0.8513115816107839,
+    "retrieval_recall": 0.6242876710583487,
+    "retrieval_f1": 0.8664994680121647,
+    "answer_accuracy": 0.8743690331171032,
+    "context_relevance": 0.9450487615277361,
+    "response_coherence": 0.8028080011207812
+  },
+  {
+    "Strategy": "chunk_page_overlap",
+    "Query": "What are the main findings and recommendations?",
+    "Processing_Time": 2.8131877848156797,
+    "Chunks_Retrieved": 3,
+    "Generated_Response": "Simulated response for chunk_page_overlap strategy.",
+    "retrieval_precision": 0.6035607538542559,
+    "retrieval_recall": 0.8811799010673165,
+    "retrieval_f1": 0.74577536568816,
+    "answer_accuracy": 0.6352493176854962,
+    "context_relevance": 0.8306361431582001,
+    "response_coherence": 0.8085869838580528
+  }
+]

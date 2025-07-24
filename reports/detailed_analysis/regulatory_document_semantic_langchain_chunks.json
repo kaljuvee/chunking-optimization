@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "\n        Regulatory Compliance Document: Data Processing Standards\n        \n        Section 1: Scope and Applicability\n        This document establishes standards for data processing and document management systems within our organization.",
+    "strategy": "semantic_langchain",
+    "tokens": 25,
+    "metadata": {
+      "chunk_size": 25,
+      "word_count": 25,
+      "char_count": 239,
+      "strategy_type": "semantic_langchain"
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "These standards apply to all departments and external contractors involved in document processing activities.\n        \n        Section 2: Definitions\n        2.1 Document Processing: The systematic analysis and segmentation of documents for information retrieval and storage purposes.\n        2.2 Chunking: The process of dividing documents into smaller, manageable segments while preserving semantic meaning.\n        2.3 Semantic Integrity: The degree to which chunked segments maintain their original meaning and context.\n        \n        Section 3: Technical Requirements\n        3.1 Processing Standards\n        All document processing systems must meet the following requirements:\n        - Minimum semantic coherence score: 0.8\n        - Maximum processing time: 5 seconds per document\n        - Minimum retrieval accuracy: 85%\n        - Support for multiple document formats\n        \n        3.2 Quality Assurance\n        Quality assurance procedures must include:\n        - Automated testing of chunking algorithms\n        - Manual review of sample outputs\n        - Performance monitoring and reporting\n        - Regular system audits\n        \n        Section 4: Implementation Guidelines\n        4.1 System Architecture\n        Document processing systems must implement:\n        - Modular design for easy maintenance\n        - Scalable architecture for growth\n        - Secure data handling protocols\n        - Comprehensive logging and monitoring\n        \n        4.2 Performance Standards\n        Systems must achieve:\n        - 95% uptime availability\n        - Sub-second response times for queries\n        - Support for concurrent processing\n        - Efficient memory utilization\n        \n        Section 5: Compliance Monitoring\n        5.1 Reporting Requirements\n        Monthly reports must include:\n        - Processing volume statistics\n        - Performance metrics\n        - Error rates and resolution times\n        - User satisfaction scores\n        \n        5.2 Audit Procedures\n        Regular audits must verify:\n        - Compliance with technical requirements\n        - Adherence to quality standards\n        - Proper implementation of security measures\n        - Effectiveness of monitoring systems\n        \n        Section 6: Penalties and Enforcement\n        6.1 Non-Compliance Penalties\n        Failure to meet standards may result in:\n        - Suspension of processing privileges\n        - Required system modifications\n        - Financial penalties\n        - Legal action if necessary\n        \n        6.2 Appeal Process\n        Organizations may appeal compliance decisions through:\n        - Technical review board\n        - Independent audit committee\n        - Legal arbitration process\n        \n        Section 7: Updates and Revisions\n        7.1 Revision Schedule\n        This document will be reviewed annually and updated as necessary to reflect:\n        - Technological advances\n        - Regulatory changes\n        - Industry best practices\n        - Organizational needs\n        \n        7.2 Change Management\n        Updates to standards will follow:\n        - Stakeholder consultation process\n        - Impact assessment procedures\n        - Phased implementation approach\n        - Training and communication protocols\n        \n        Section 8: Contact Information\n        For questions regarding these standards, contact:\n        - Technical Support: tech-support@organization.com\n        - Compliance Office: compliance@organization.com\n        - Legal Department: legal@organization.com\n        \n        Effective Date: January 1, 2024\n        Next Review Date: January 1, 2025\n        .",
+    "strategy": "semantic_langchain",
+    "tokens": 392,
+    "metadata": {
+      "chunk_size": 392,
+      "word_count": 392,
+      "char_count": 3644,
+      "strategy_type": "semantic_langchain"
+    }
+  }
+]

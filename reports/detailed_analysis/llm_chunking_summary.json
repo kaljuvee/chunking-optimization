@@ -1,0 +1,50 @@
+{
+  "test_metadata": {
+    "timestamp": "2024-01-01 12:00:00",
+    "total_documents": 3,
+    "strategies_tested": [
+      "content_aware",
+      "hierarchical"
+    ]
+  },
+  "content_aware_results": {
+    "technical_report": {
+      "chunks_file": "test-data/technical_report_content_aware_chunks.json",
+      "num_chunks": 1,
+      "success": true
+    },
+    "executive_summary": {
+      "chunks_file": "test-data/executive_summary_content_aware_chunks.json",
+      "num_chunks": 1,
+      "success": true
+    },
+    "research_paper": {
+      "chunks_file": "test-data/research_paper_content_aware_chunks.json",
+      "num_chunks": 2,
+      "success": true
+    }
+  },
+  "hierarchical_results": {
+    "technical_report": {
+      "hierarchy_file": "test-data/technical_report_hierarchical_full.json",
+      "flat_file": "test-data/technical_report_hierarchical_flat.json",
+      "num_chunks": 1,
+      "total_hierarchy_chunks": 1,
+      "success": true
+    },
+    "executive_summary": {
+      "hierarchy_file": "test-data/executive_summary_hierarchical_full.json",
+      "flat_file": "test-data/executive_summary_hierarchical_flat.json",
+      "num_chunks": 1,
+      "total_hierarchy_chunks": 1,
+      "success": true
+    },
+    "research_paper": {
+      "hierarchy_file": "test-data/research_paper_hierarchical_full.json",
+      "flat_file": "test-data/research_paper_hierarchical_flat.json",
+      "num_chunks": 1,
+      "total_hierarchy_chunks": 1,
+      "success": true
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "test_metadata": {
+    "timestamp": "2025-07-15 12:46:09",
+    "total_documents": 4,
+    "total_strategies": 5
+  },
+  "document_results": {
+    "technical_report": {
+      "traditional_fixed": {
+        "chunks_file": "test-data/technical_report_traditional_fixed_chunks.json",
+        "metrics": {
+          "strategy": "traditional_fixed",
+          "document": "technical_report",
+          "processing_time": 3.62396240234375e-05,
+          "num_chunks": 2,
+          "avg_chunk_size": 136.5
+        },
+        "num_chunks": 2,
+        "success": true
+      },
+      "traditional_overlap": {
+        "chunks_file": "test-data/technical_report_traditional_overlap_chunks.json",
+        "metrics": {
+          "strategy": "traditional_overlap",
+          "document": "technical_report",
+          "processing_time": 2.4318695068359375e-05,
+          "num_chunks": 3,
+          "avg_chunk_size": 124.33333333333333
+        },
+        "num_chunks": 3,
+        "success": true
+      },
+      "semantic_langchain": {
+        "chunks_file": "test-data/technical_report_semantic_langchain_chunks.json",
+        "metrics": {
+          "strategy": "semantic_langchain",
+          "document": "technical_report",
+          "processing_time": 6.556510925292969e-05,
+          "num_chunks": 2,
+          "avg_chunk_size": 137.0
+        },
+        "num_chunks": 2,
+        "success": true
+      },
+      "content_aware_llm": {
+        "chunks_file": "test-data/technical_report_content_aware_llm_chunks.json",
+        "metrics": {
+          "strategy": "content_aware_llm",
+          "document": "technical_report",
+          "processing_time": 6.556510925292969e-05,
+          "num_chunks": 1,
+          "avg_chunk_size": 273.0
+        },
+        "num_chunks": 1,
+        "success": true
+      },
+      "hierarchical_llm": {
+        "chunks_file": "test-data/technical_report_hierarchical_llm_chunks.json",
+        "metrics": {
+          "strategy": "hierarchical_llm",
+          "document": "technical_report",
+          "processing_time": 9.5367431640625e-05,
+          "num_chunks": 20,
+          "avg_chunk_size": 13.65
+        },
+        "num_chunks": 20,
+        "success": true
+      }
+    },
+    "executive_summary": {
+      "traditional_fixed": {
+        "chunks_file": "test-data/executive_summary_traditional_fixed_chunks.json",
+        "metrics": {
+          "strategy": "traditional_fixed",
+          "document": "executive_summary",
+          "processing_time": 2.2172927856445312e-05,
+          "num_chunks": 2,
+          "avg_chunk_size": 133.5
+        },
+        "num_chunks": 2,
+        "success": true
+      },
+      "traditional_overlap": {
+        "chunks_file": "test-data/executive_summary_traditional_overlap_chunks.json",
+        "metrics": {
+          "strategy": "traditional_overlap",
+          "document": "executive_summary",
+          "processing_time": 2.288818359375e-05,
+          "num_chunks": 3,
+          "avg_chunk_size": 122.33333333333333
+        },
+        "num_chunks": 3,
+        "success": true
+      },
+      "semantic_langchain": {
+        "chunks_file": "test-data/executive_summary_semantic_langchain_chunks.json",
+        "metrics": {
+          "strategy": "semantic_langchain",
+          "document": "executive_summary",
+          "processing_time": 5.817413330078125e-05,
+          "num_chunks": 3,
+          "avg_chunk_size": 89.33333333333333
+        },
+        "num_chunks": 3,
+        "success": true
+      },
+      "content_aware_llm": {
+        "chunks_file": "test-data/executive_summary_content_aware_llm_chunks.json",
+        "metrics": {
+          "strategy": "content_aware_llm",
+          "document": "executive_summary",
+          "processing_time": 5.507469177246094e-05,
+          "num_chunks": 1,
+          "avg_chunk_size": 267.0
+        },
+        "num_chunks": 1,
+        "success": true
+      },
+      "hierarchical_llm": {
+        "chunks_file": "test-data/executive_summary_hierarchical_llm_chunks.json",
+        "metrics": {
+          "strategy": "hierarchical_llm",
+          "document": "executive_summary",
+          "processing_time": 8.630752563476562e-05,
+          "num_chunks": 31,
+          "avg_chunk_size": 8.612903225806452
+        },
+        "num_chunks": 31,
+        "success": true
+      }
+    },
+    "research_paper": {
+      "traditional_fixed": {
+        "chunks_file": "test-data/research_paper_traditional_fixed_chunks.json",
+        "metrics": {
+          "strategy": "traditional_fixed",
+          "document": "research_paper",
+          "processing_time": 2.7179718017578125e-05,
+          "num_chunks": 3,
+          "avg_chunk_size": 128.0
+        },
+        "num_chunks": 3,
+        "success": true
+      },
+      "traditional_overlap": {
+        "chunks_file": "test-data/research_paper_traditional_overlap_chunks.json",
+        "metrics": {
+          "strategy": "traditional_overlap",
+          "document": "research_paper",
+          "processing_time": 2.8848648071289062e-05,
+          "num_chunks": 4,
+          "avg_chunk_size": 133.5
+        },
+        "num_chunks": 4,
+        "success": true
+      },
+      "semantic_langchain": {
+        "chunks_file": "test-data/research_paper_semantic_langchain_chunks.json",
+        "metrics": {
+          "strategy": "semantic_langchain",
+          "document": "research_paper",
+          "processing_time": 8.988380432128906e-05,
+          "num_chunks": 3,
+          "avg_chunk_size": 128.33333333333334
+        },
+        "num_chunks": 3,
+        "success": true
+      },
+      "content_aware_llm": {
+        "chunks_file": "test-data/research_paper_content_aware_llm_chunks.json",
+        "metrics": {
+          "strategy": "content_aware_llm",
+          "document": "research_paper",
+          "processing_time": 8.058547973632812e-05,
+          "num_chunks": 2,
+          "avg_chunk_size": 192.0
+        },
+        "num_chunks": 2,
+        "success": true
+      },
+      "hierarchical_llm": {
+        "chunks_file": "test-data/research_paper_hierarchical_llm_chunks.json",
+        "metrics": {
+          "strategy": "hierarchical_llm",
+          "document": "research_paper",
+          "processing_time": 0.00012183189392089844,
+          "num_chunks": 32,
+          "avg_chunk_size": 12.0
+        },
+        "num_chunks": 32,
+        "success": true
+      }
+    },
+    "regulatory_document": {
+      "traditional_fixed": {
+        "chunks_file": "test-data/regulatory_document_traditional_fixed_chunks.json",
+        "metrics": {
+          "strategy": "traditional_fixed",
+          "document": "regulatory_document",
+          "processing_time": 3.0279159545898438e-05,
+          "num_chunks": 3,
+          "avg_chunk_size": 138.66666666666666
+        },
+        "num_chunks": 3,
+        "success": true
+      },
+      "traditional_overlap": {
+        "chunks_file": "test-data/regulatory_document_traditional_overlap_chunks.json",
+        "metrics": {
+          "strategy": "traditional_overlap",
+          "document": "regulatory_document",
+          "processing_time": 3.314018249511719e-05,
+          "num_chunks": 5,
+          "avg_chunk_size": 116.4
+        },
+        "num_chunks": 5,
+        "success": true
+      },
+      "semantic_langchain": {
+        "chunks_file": "test-data/regulatory_document_semantic_langchain_chunks.json",
+        "metrics": {
+          "strategy": "semantic_langchain",
+          "document": "regulatory_document",
+          "processing_time": 8.58306884765625e-05,
+          "num_chunks": 2,
+          "avg_chunk_size": 208.5
+        },
+        "num_chunks": 2,
+        "success": true
+      },
+      "content_aware_llm": {
+        "chunks_file": "test-data/regulatory_document_content_aware_llm_chunks.json",
+        "metrics": {
+          "strategy": "content_aware_llm",
+          "document": "regulatory_document",
+          "processing_time": 8.916854858398438e-05,
+          "num_chunks": 2,
+          "avg_chunk_size": 208.0
+        },
+        "num_chunks": 2,
+        "success": true
+      },
+      "hierarchical_llm": {
+        "chunks_file": "test-data/regulatory_document_hierarchical_llm_chunks.json",
+        "metrics": {
+          "strategy": "hierarchical_llm",
+          "document": "regulatory_document",
+          "processing_time": 0.00013780593872070312,
+          "num_chunks": 64,
+          "avg_chunk_size": 6.5
+        },
+        "num_chunks": 64,
+        "success": true
+      }
+    }
+  },
+  "strategy_comparison": {
+    "traditional_fixed": {
+      "total_chunks": 10,
+      "total_processing_time": 0.00011587142944335938,
+      "avg_chunk_size": 0,
+      "documents_processed": 4,
+      "avg_processing_time": 2.8967857360839844e-05,
+      "avg_chunks_per_doc": 2.5
+    },
+    "traditional_overlap": {
+      "total_chunks": 15,
+      "total_processing_time": 0.00010919570922851562,
+      "avg_chunk_size": 0,
+      "documents_processed": 4,
+      "avg_processing_time": 2.7298927307128906e-05,
+      "avg_chunks_per_doc": 3.75
+    },
+    "semantic_langchain": {
+      "total_chunks": 10,
+      "total_processing_time": 0.0002994537353515625,
+      "avg_chunk_size": 0,
+      "documents_processed": 4,
+      "avg_processing_time": 7.486343383789062e-05,
+      "avg_chunks_per_doc": 2.5
+    },
+    "content_aware_llm": {
+      "total_chunks": 6,
+      "total_processing_time": 0.0002903938293457031,
+      "avg_chunk_size": 0,
+      "documents_processed": 4,
+      "avg_processing_time": 7.259845733642578e-05,
+      "avg_chunks_per_doc": 1.5
+    },
+    "hierarchical_llm": {
+      "total_chunks": 147,
+      "total_processing_time": 0.0004413127899169922,
+      "avg_chunk_size": 0,
+      "documents_processed": 4,
+      "avg_processing_time": 0.00011032819747924805,
+      "avg_chunks_per_doc": 36.75
+    }
+  },
+  "performance_metrics": {}
+}

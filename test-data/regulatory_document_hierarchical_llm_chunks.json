@@ -1,0 +1,834 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Regulatory Compliance Document: Data Processing Standards",
+    "strategy": "hierarchical_llm",
+    "tokens": 6,
+    "metadata": {
+      "chunk_size": 6,
+      "word_count": 6,
+      "char_count": 57,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 0
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Section 1: Scope and Applicability\nThis document establishes standards for data processing and document management systems within our organization. These standards apply to all departments and external contractors involved in document processing activities.",
+    "strategy": "hierarchical_llm",
+    "tokens": 33,
+    "metadata": {
+      "chunk_size": 33,
+      "word_count": 33,
+      "char_count": 257,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 1
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Section 2: Definitions\n2.1 Document Processing: The systematic analysis and segmentation of documents for information retrieval and storage purposes.\n2.2 Chunking: The process of dividing documents into smaller, manageable segments while preserving semantic meaning.\n2.3 Semantic Integrity: The degree to which chunked segments maintain their original meaning and context.",
+    "strategy": "hierarchical_llm",
+    "tokens": 49,
+    "metadata": {
+      "chunk_size": 49,
+      "word_count": 49,
+      "char_count": 372,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 2
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Section 3: Technical Requirements",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 33,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 3
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "3.1 Processing Standards",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 24,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 4
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "All document processing systems must meet the following requirements:\n- Minimum semantic coherence score: 0.8\n- Maximum processing time: 5 seconds per document",
+    "strategy": "hierarchical_llm",
+    "tokens": 23,
+    "metadata": {
+      "chunk_size": 23,
+      "word_count": 23,
+      "char_count": 159,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 5
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "- Minimum retrieval accuracy: 85%\n- Support for multiple document formats",
+    "strategy": "hierarchical_llm",
+    "tokens": 11,
+    "metadata": {
+      "chunk_size": 11,
+      "word_count": 11,
+      "char_count": 73,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 6
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "3.2 Quality Assurance",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 21,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 7
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Quality assurance procedures must include:\n- Automated testing of chunking algorithms\n- Manual review of sample outputs",
+    "strategy": "hierarchical_llm",
+    "tokens": 17,
+    "metadata": {
+      "chunk_size": 17,
+      "word_count": 17,
+      "char_count": 119,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 8
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "- Performance monitoring and reporting",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 38,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 9
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "- Regular system audits",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 23,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 10
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "Section 4: Implementation Guidelines",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 36,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 11
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "4.1 System Architecture",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 23,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 12
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "Document processing systems must implement:\n- Modular design for easy maintenance",
+    "strategy": "hierarchical_llm",
+    "tokens": 11,
+    "metadata": {
+      "chunk_size": 11,
+      "word_count": 11,
+      "char_count": 81,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 13
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "- Scalable architecture for growth",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 34,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 14
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "- Secure data handling protocols",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 15
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "- Comprehensive logging and monitoring",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 38,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 16
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "4.2 Performance Standards",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 25,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 17
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Systems must achieve:",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 21,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 18
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "- 95% uptime availability\n- Sub-second response times for queries",
+    "strategy": "hierarchical_llm",
+    "tokens": 10,
+    "metadata": {
+      "chunk_size": 10,
+      "word_count": 10,
+      "char_count": 65,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 19
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "- Support for concurrent processing",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 35,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 20
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "- Efficient memory utilization",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 30,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 21
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "Section 5: Compliance Monitoring",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 22
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "5.1 Reporting Requirements",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 26,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 23
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Monthly reports must include:",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 29,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 24
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "- Processing volume statistics",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 30,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 25
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "- Performance metrics\n- Error rates and resolution times",
+    "strategy": "hierarchical_llm",
+    "tokens": 9,
+    "metadata": {
+      "chunk_size": 9,
+      "word_count": 9,
+      "char_count": 56,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 26
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "- User satisfaction scores",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 26,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 27
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "5.2 Audit Procedures",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 20,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 28
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "Regular audits must verify:",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 27,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 29
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "- Compliance with technical requirements",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 40,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 30
+    }
+  },
+  {
+    "chunk_index": 31,
+    "text": "- Adherence to quality standards\n- Proper implementation of security measures",
+    "strategy": "hierarchical_llm",
+    "tokens": 11,
+    "metadata": {
+      "chunk_size": 11,
+      "word_count": 11,
+      "char_count": 77,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 31
+    }
+  },
+  {
+    "chunk_index": 32,
+    "text": "- Effectiveness of monitoring systems",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 37,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 32
+    }
+  },
+  {
+    "chunk_index": 33,
+    "text": "Section 6: Penalties and Enforcement",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 36,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 33
+    }
+  },
+  {
+    "chunk_index": 34,
+    "text": "6.1 Non-Compliance Penalties",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 28,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 34
+    }
+  },
+  {
+    "chunk_index": 35,
+    "text": "Failure to meet standards may result in:",
+    "strategy": "hierarchical_llm",
+    "tokens": 7,
+    "metadata": {
+      "chunk_size": 7,
+      "word_count": 7,
+      "char_count": 40,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 35
+    }
+  },
+  {
+    "chunk_index": 36,
+    "text": "- Suspension of processing privileges",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 37,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 36
+    }
+  },
+  {
+    "chunk_index": 37,
+    "text": "- Required system modifications",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 31,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 37
+    }
+  },
+  {
+    "chunk_index": 38,
+    "text": "- Financial penalties",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 21,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 38
+    }
+  },
+  {
+    "chunk_index": 39,
+    "text": "- Legal action if necessary",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 27,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 39
+    }
+  },
+  {
+    "chunk_index": 40,
+    "text": "6.2 Appeal Process",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 18,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 40
+    }
+  },
+  {
+    "chunk_index": 41,
+    "text": "Organizations may appeal compliance decisions through:",
+    "strategy": "hierarchical_llm",
+    "tokens": 6,
+    "metadata": {
+      "chunk_size": 6,
+      "word_count": 6,
+      "char_count": 54,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 41
+    }
+  },
+  {
+    "chunk_index": 42,
+    "text": "- Technical review board",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 24,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 42
+    }
+  },
+  {
+    "chunk_index": 43,
+    "text": "- Independent audit committee",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 29,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 43
+    }
+  },
+  {
+    "chunk_index": 44,
+    "text": "- Legal arbitration process",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 27,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 44
+    }
+  },
+  {
+    "chunk_index": 45,
+    "text": "Section 7: Updates and Revisions",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 45
+    }
+  },
+  {
+    "chunk_index": 46,
+    "text": "7.1 Revision Schedule",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 21,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 46
+    }
+  },
+  {
+    "chunk_index": 47,
+    "text": "This document will be reviewed annually and updated as necessary to reflect:",
+    "strategy": "hierarchical_llm",
+    "tokens": 12,
+    "metadata": {
+      "chunk_size": 12,
+      "word_count": 12,
+      "char_count": 76,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 47
+    }
+  },
+  {
+    "chunk_index": 48,
+    "text": "- Technological advances",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 24,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 48
+    }
+  },
+  {
+    "chunk_index": 49,
+    "text": "- Regulatory changes",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 20,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 49
+    }
+  },
+  {
+    "chunk_index": 50,
+    "text": "- Industry best practices",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 25,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 50
+    }
+  },
+  {
+    "chunk_index": 51,
+    "text": "- Organizational needs",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 22,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 51
+    }
+  },
+  {
+    "chunk_index": 52,
+    "text": "7.2 Change Management",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 21,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 52
+    }
+  },
+  {
+    "chunk_index": 53,
+    "text": "Updates to standards will follow:",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 33,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 53
+    }
+  },
+  {
+    "chunk_index": 54,
+    "text": "- Stakeholder consultation process",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 34,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 54
+    }
+  },
+  {
+    "chunk_index": 55,
+    "text": "- Impact assessment procedures",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 30,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 55
+    }
+  },
+  {
+    "chunk_index": 56,
+    "text": "- Phased implementation approach",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 56
+    }
+  },
+  {
+    "chunk_index": 57,
+    "text": "- Training and communication protocols",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 38,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 57
+    }
+  },
+  {
+    "chunk_index": 58,
+    "text": "Section 8: Contact Information",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 30,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 58
+    }
+  },
+  {
+    "chunk_index": 59,
+    "text": "For questions regarding these standards, contact:",
+    "strategy": "hierarchical_llm",
+    "tokens": 6,
+    "metadata": {
+      "chunk_size": 6,
+      "word_count": 6,
+      "char_count": 49,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 59
+    }
+  },
+  {
+    "chunk_index": 60,
+    "text": "- Technical Support: tech-support@organization.com",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 50,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 60
+    }
+  },
+  {
+    "chunk_index": 61,
+    "text": "- Compliance Office: compliance@organization.com",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 48,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 61
+    }
+  },
+  {
+    "chunk_index": 62,
+    "text": "- Legal Department: legal@organization.com",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 42,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 62
+    }
+  },
+  {
+    "chunk_index": 63,
+    "text": "Effective Date: January 1, 2024\nNext Review Date: January 1, 2025",
+    "strategy": "hierarchical_llm",
+    "tokens": 11,
+    "metadata": {
+      "chunk_size": 11,
+      "word_count": 11,
+      "char_count": 65,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 63
+    }
+  }
+]

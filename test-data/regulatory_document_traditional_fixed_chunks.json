@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Regulatory Compliance Document: Data Processing Standards Section 1: Scope and Applicability This document establishes standards for data processing and document management systems within our organization. These standards apply to all departments and external contractors involved in document processing activities. Section 2: Definitions 2.1 Document Processing: The systematic analysis and segmentation of documents for information retrieval and storage purposes. 2.2 Chunking: The process of dividing documents into smaller, manageable segments while preserving semantic meaning. 2.3 Semantic Integrity: The degree to which chunked segments maintain their original meaning and context. Section 3: Technical Requirements 3.1 Processing Standards All document processing systems must meet the following requirements: - Minimum semantic coherence score: 0.8 - Maximum processing time: 5 seconds per document - Minimum retrieval accuracy: 85% - Support for multiple document formats 3.2 Quality Assurance Quality assurance procedures must include: - Automated testing of chunking algorithms - Manual review of sample outputs -",
+    "strategy": "traditional_fixed",
+    "tokens": 150,
+    "metadata": {
+      "chunk_size": 150,
+      "word_count": 150,
+      "char_count": 1125,
+      "strategy_type": "traditional_fixed"
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Performance monitoring and reporting - Regular system audits Section 4: Implementation Guidelines 4.1 System Architecture Document processing systems must implement: - Modular design for easy maintenance - Scalable architecture for growth - Secure data handling protocols - Comprehensive logging and monitoring 4.2 Performance Standards Systems must achieve: - 95% uptime availability - Sub-second response times for queries - Support for concurrent processing - Efficient memory utilization Section 5: Compliance Monitoring 5.1 Reporting Requirements Monthly reports must include: - Processing volume statistics - Performance metrics - Error rates and resolution times - User satisfaction scores 5.2 Audit Procedures Regular audits must verify: - Compliance with technical requirements - Adherence to quality standards - Proper implementation of security measures - Effectiveness of monitoring systems Section 6: Penalties and Enforcement 6.1 Non-Compliance Penalties Failure to meet standards may result in: - Suspension of processing privileges - Required system modifications - Financial penalties -",
+    "strategy": "traditional_fixed",
+    "tokens": 150,
+    "metadata": {
+      "chunk_size": 150,
+      "word_count": 150,
+      "char_count": 1103,
+      "strategy_type": "traditional_fixed"
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Legal action if necessary 6.2 Appeal Process Organizations may appeal compliance decisions through: - Technical review board - Independent audit committee - Legal arbitration process Section 7: Updates and Revisions 7.1 Revision Schedule This document will be reviewed annually and updated as necessary to reflect: - Technological advances - Regulatory changes - Industry best practices - Organizational needs 7.2 Change Management Updates to standards will follow: - Stakeholder consultation process - Impact assessment procedures - Phased implementation approach - Training and communication protocols Section 8: Contact Information For questions regarding these standards, contact: - Technical Support: tech-support@organization.com - Compliance Office: compliance@organization.com - Legal Department: legal@organization.com Effective Date: January 1, 2024 Next Review Date: January 1, 2025",
+    "strategy": "traditional_fixed",
+    "tokens": 116,
+    "metadata": {
+      "chunk_size": 150,
+      "word_count": 116,
+      "char_count": 893,
+      "strategy_type": "traditional_fixed"
+    }
+  }
+]

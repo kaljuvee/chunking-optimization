@@ -1,0 +1,470 @@
+[
+  {
+    "page": 1,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 28,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 2,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 348,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 2,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 346,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 2,
+    "chunk_index": 2,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 222,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 2,
+    "chunk_index": 3,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 48,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 3,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 76,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 4,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 342,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 4,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 51,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 5,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 247,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 6,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 403,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 6,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 132,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 7,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 557,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 7,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 278,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 8,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 351,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 8,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 98,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 9,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 259,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 9,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 12,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 10,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 315,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 10,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 51,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 11,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 356,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 11,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 118,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 12,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 359,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 12,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 116,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 13,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 616,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 13,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 320,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 14,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 349,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 14,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 81,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 15,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 237,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 16,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 372,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 16,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 42,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 17,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 213,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 18,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 301,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 18,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 61,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 19,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 482,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 19,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 229,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 20,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 462,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 20,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 169,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 21,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 450,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 21,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 217,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 21,
+    "chunk_index": 2,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 8,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 22,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 278,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 22,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 20,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 23,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 51,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 24,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 8,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 25,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 26,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 26,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 8,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 27,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 486,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 27,
+    "chunk_index": 1,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 184,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 150
+  },
+  {
+    "page": 28,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 241,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 29,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 131,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 30,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 158,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  },
+  {
+    "page": 31,
+    "chunk_index": 0,
+    "strategy": "per_page_overlap_summary",
+    "original_tokens": 48,
+    "summary_tokens": 6,
+    "summary": "[Error summarizing chunk]",
+    "overlap_tokens": 0
+  }
+]

@@ -1,0 +1,51 @@
+# ADNOC Semantic Chunking and Visualization Tool
+# Requirements file for the chunking optimization project
+
+# Core Python packages
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning and Data Science
+scikit-learn
+plotly
+
+# PDF Processing
+PyMuPDF
+
+# Environment and Configuration
+python-dotenv
+
+# OpenAI and Azure Integration
+openai
+langchain
+langchain-openai
+langchain-experimental
+langchain-text-splitters
+langchain-community
+
+# Token Counting
+tiktoken
+
+# Natural Language Processing
+nltk
+sentence-transformers
+
+# Evaluation and Testing
+pytest
+pytest-benchmark
+psutil
+
+# Advanced ML
+torch
+faiss-cpu
+
+# API and Configuration
+fastapi
+uvicorn
+pyyaml
+
+# Visualization Enhancements
+bokeh
+streamlit 

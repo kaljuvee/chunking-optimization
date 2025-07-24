@@ -1,0 +1,74 @@
+CHUNKING STRATEGY COMPARISON REPORT
+==================================================
+Generated: 2025-07-15 12:46:09
+Documents tested: 4
+Strategies tested: 5
+
+PERFORMANCE SUMMARY
+--------------------
+
+TRADITIONAL_FIXED:
+  Documents processed: 4
+  Total chunks: 10
+  Average chunks per document: 2.5
+  Average processing time: 0.000s
+  Total processing time: 0.000s
+
+TRADITIONAL_OVERLAP:
+  Documents processed: 4
+  Total chunks: 15
+  Average chunks per document: 3.8
+  Average processing time: 0.000s
+  Total processing time: 0.000s
+
+SEMANTIC_LANGCHAIN:
+  Documents processed: 4
+  Total chunks: 10
+  Average chunks per document: 2.5
+  Average processing time: 0.000s
+  Total processing time: 0.000s
+
+CONTENT_AWARE_LLM:
+  Documents processed: 4
+  Total chunks: 6
+  Average chunks per document: 1.5
+  Average processing time: 0.000s
+  Total processing time: 0.000s
+
+HIERARCHICAL_LLM:
+  Documents processed: 4
+  Total chunks: 147
+  Average chunks per document: 36.8
+  Average processing time: 0.000s
+  Total processing time: 0.000s
+
+DOCUMENT RESULTS
+--------------------
+
+technical_report:
+  traditional_fixed: 2 chunks, 0.000s
+  traditional_overlap: 3 chunks, 0.000s
+  semantic_langchain: 2 chunks, 0.000s
+  content_aware_llm: 1 chunks, 0.000s
+  hierarchical_llm: 20 chunks, 0.000s
+
+executive_summary:
+  traditional_fixed: 2 chunks, 0.000s
+  traditional_overlap: 3 chunks, 0.000s
+  semantic_langchain: 3 chunks, 0.000s
+  content_aware_llm: 1 chunks, 0.000s
+  hierarchical_llm: 31 chunks, 0.000s
+
+research_paper:
+  traditional_fixed: 3 chunks, 0.000s
+  traditional_overlap: 4 chunks, 0.000s
+  semantic_langchain: 3 chunks, 0.000s
+  content_aware_llm: 2 chunks, 0.000s
+  hierarchical_llm: 32 chunks, 0.000s
+
+regulatory_document:
+  traditional_fixed: 3 chunks, 0.000s
+  traditional_overlap: 5 chunks, 0.000s
+  semantic_langchain: 2 chunks, 0.000s
+  content_aware_llm: 2 chunks, 0.000s
+  hierarchical_llm: 64 chunks, 0.000s

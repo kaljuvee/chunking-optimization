@@ -1,0 +1,108 @@
+[
+  {
+    "Strategy": "chunk_full_overlap",
+    "Num_Chunks": 3,
+    "Avg_Chunk_Size": 201.66666666666666,
+    "Chunk_Size_Std": 18.78533707147383,
+    "Coherence_Score": 0.8269539365985247,
+    "Retrieval_Accuracy": 0.9022377707298637,
+    "Processing_Time": 0.47777915767514356,
+    "Chunks": [
+      {
+        "chunk_index": 0,
+        "strategy": "full_doc_overlap_summary",
+        "original_tokens": 397,
+        "summary_tokens": 306,
+        "overlap_tokens": 0,
+        "summary": "**Key Themes and Insights:**\n- **Digital Transformation:** ADNOC is undertaking a comprehensive digital transformation to modernize operations and enhance efficiency.\n- **Operational Excellence:** Focus on improving operational efficiency and reducing downtime.\n- **Digital Innovation:** Emphasis on AI-driven analytics, real-time monitoring, and autonomous systems.\n- **Sustainability:** Commitment to reducing carbon footprint and achieving net-zero operations.\n\n**Factual Data Points and Statistics:**\n- **Operational Efficiency:** Targeting a 25% improvement.\n- **Downtime Reduction:** Aiming for a 40% reduction in unplanned downtime.\n- **Carbon Footprint Reduction:** 25% reduction by 2030, with net-zero operations by 2050.\n- **Investment:** Total of $5.5 billion, with allocations for technology infrastructure ($2.5 billion), digital platforms ($1.8 billion), workforce development ($500 million), and innovation programs ($700 million).\n- **Expected Returns:** $3.2 billion in annual operational cost savings, 25% efficiency gains, 30% risk reduction, and $15 billion in market value creation.\n\n**Organizations or Stakeholders Involved:**\n- **ADNOC:** The primary organization driving the digital transformation initiative.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- **Strategic Pillars:**\n  - Operational Excellence\n  - Digital Innovation\n  - Sustainability Goals\n- **Benefits:**\n  - Enhanced operational efficiency and decision-making."
+      },
+      {
+        "chunk_index": 1,
+        "strategy": "full_doc_overlap_summary",
+        "original_tokens": 370,
+        "summary_tokens": 303,
+        "overlap_tokens": 50,
+        "summary": "**Key Themes and Insights:**\n- Risk Management: Focus on reducing technical and operational risks through strategic mitigation strategies.\n- Digital Transformation: Emphasized as a strategic imperative for future success, aiming for operational excellence and sustainable growth.\n- Stakeholder Impact: Both internal and external stakeholders are considered, with benefits outlined for each group.\n\n**Factual Data Points and Statistics:**\n- Risk reduction: 30% decrease in incidents.\n- Market value creation: $15 billion.\n- Operational efficiency improvement: 25%.\n- Cost reduction: $3.2 billion annually.\n- Safety performance: Zero incidents.\n- Environmental impact: 25% reduction.\n\n**Organizations or Stakeholders Involved:**\n- ADNOC (Abu Dhabi National Oil Company): The primary organization undertaking the Digital Transformation Initiative.\n- Internal Stakeholders: Employees, management, operations, IT.\n- External Stakeholders: Shareholders, customers, partners, communities.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- Mitigation Strategies:\n  - Comprehensive security framework.\n  - Phased implementation approach.\n  - Continuous learning programs.\n  - Stakeholder engagement protocols.\n- Benefits:\n  - Enhanced skills and career development for employees.\n  - Improved decision-making capabilities for management.\n  - Streamlined processes and reduced workload for operations.\n  - Modern technology infrastructure for IT.\n  - Increased value and returns for shareholders.\n  - Improved service quality for customers.\n  - Enhanced collaboration opportunities for partners.\n  - Sustainable development"
+      },
+      {
+        "chunk_index": 2,
+        "strategy": "full_doc_overlap_summary",
+        "original_tokens": 71,
+        "summary_tokens": 301,
+        "overlap_tokens": 50,
+        "summary": "**Key Themes and Insights:**\n- The document outlines strategic planning and execution in three main areas: financial projections, technology implementation, and change management.\n- Emphasis on risk management, technology integration, and effective change management to ensure successful project outcomes.\n\n**Factual Data Points and Statistics:**\n- Specific data points such as ROI projections, risk-adjusted return calculations, and funding strategies are mentioned, though exact figures are not provided in the text.\n\n**Organizations or Stakeholders Involved:**\n- The text does not explicitly mention any organizations or stakeholders. However, it implies involvement from financial analysts, technology vendors, and change management teams.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- **Financial Strategy:**\n  - ROI projections and sensitivity analysis to assess financial viability.\n  - Risk-adjusted return calculations to account for potential uncertainties.\n  - Development of a funding strategy and identification of funding sources.\n- **Technology Roadmap:**\n  - Detailed platform architecture and specifications to guide technology development.\n  - Integration requirements and timelines to ensure seamless implementation.\n  - Vendor selection criteria and evaluation to choose the best technology partners.\n  - Implementation methodology to streamline the deployment process.\n- **Change Management Plan:**\n  - Communication strategy and timeline to keep stakeholders informed.\n  - Training programs and resources to equip staff with necessary skills.\n  - Resistance management approaches to address and mitigate opposition.\n  - Success measurement and feedback loops to evaluate and refine processes.\n\n**Trends or Stages"
+      }
+    ]
+  },
+  {
+    "Strategy": "chunk_full_summary",
+    "Num_Chunks": 1,
+    "Avg_Chunk_Size": 177.0,
+    "Chunk_Size_Std": 0.0,
+    "Coherence_Score": 0.7758208673186019,
+    "Retrieval_Accuracy": 0.8786221067871742,
+    "Processing_Time": 0.3442172969228995,
+    "Chunks": [
+      {
+        "chunk_index": 0,
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "strategy": "full_doc_summary_azure",
+        "text": "**Key Themes and Insights:**\n- **Digital Transformation:** ADNOC's initiative focuses on modernizing operations through technology integration to enhance efficiency, decision-making, and leadership in smart energy solutions.\n- **Operational Excellence:** Aims to significantly improve operational efficiency and reduce downtime.\n- **Digital Innovation:** Emphasizes AI-driven analytics, real-time monitoring, autonomous systems, and digital twin technology.\n- **Sustainability Goals:** Focus on reducing carbon footprint, integrating renewable energy, and achieving net-zero operations by 2050.\n\n**Factual Data Points and Statistics:**\n- **Operational Efficiency:** Targeting a 25% improvement.\n- **Downtime Reduction:** Aiming for a 40% reduction in unplanned downtime.\n- **Carbon Footprint Reduction:** 25% reduction by 2030.\n- **Investment:** Total of $5.5 billion, with allocations for technology infrastructure ($2.5 billion), digital platforms ($1.8 billion), workforce development ($500 million), and innovation programs ($700 million).\n- **Expected Returns:** $3.2 billion in annual operational cost savings, 25% efficiency gains, 30% risk reduction, and $15 billion in market value creation.\n\n**Organizations or Stakeholders Involved:**\n- **Internal Stakeholders:** Employees, management, operations, and IT.\n- **External Stakeholders:** Shareholders, customers, partners, and communities.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- **Strategic",
+        "tokens": 305,
+        "original_pages_tokens": 836
+      }
+    ]
+  },
+  {
+    "Strategy": "chunk_page_overlap",
+    "Num_Chunks": 4,
+    "Avg_Chunk_Size": 209.5,
+    "Chunk_Size_Std": 5.5901699437494745,
+    "Coherence_Score": 0.6226208520222275,
+    "Retrieval_Accuracy": 0.8954148134444566,
+    "Processing_Time": 1.8455998412789556,
+    "Chunks": [
+      {
+        "page": 1,
+        "chunk_index": 0,
+        "strategy": "per_page_overlap_summary",
+        "original_tokens": 204,
+        "summary_tokens": 307,
+        "summary": "**Key Themes and Insights:**\n- ADNOC's Digital Transformation Initiative focuses on modernizing operations through technology integration.\n- The initiative aims to enhance operational efficiency, improve decision-making, and establish ADNOC as a leader in smart energy solutions.\n\n**Factual Data Points and Statistics:**\n- Targeting a 25% improvement in operational efficiency.\n- Aiming to reduce unplanned downtime by 40%.\n- Goal to reduce carbon footprint by 25% by 2030.\n- Aspiration to achieve net-zero operations by 2050.\n\n**Organizations or Stakeholders Involved:**\n- ADNOC (Abu Dhabi National Oil Company) is the primary organization involved in this initiative.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- **Operational Excellence:**\n  - Improve operational efficiency and reduce downtime.\n  - Optimize resource allocation and implement predictive maintenance.\n- **Digital Innovation:**\n  - Deploy AI-driven analytics and establish real-time monitoring.\n  - Develop autonomous systems and digital twin implementations.\n- **Sustainability Goals:**\n  - Reduce carbon footprint and integrate renewable energy.\n  - Develop carbon capture and storage solutions.\n\n**Trends or Stages of AI Adoption, Digital Transformation, and Impact:**\n- The initiative is in the early stages, with Phase 1 (2024-2025) focusing on foundational elements:\n  - Infrastructure modernization and data governance.\n  - Deployment of core digital platforms and workforce upskilling.\n\n**Evidence Supporting the Claims:",
+        "overlap_tokens": 0
+      },
+      {
+        "page": 2,
+        "chunk_index": 0,
+        "strategy": "per_page_overlap_summary",
+        "original_tokens": 190,
+        "summary_tokens": 302,
+        "summary": "**Key Themes and Insights:**\n- The document outlines a strategic plan focusing on the acceleration and transformation phases of AI and digital transformation.\n- Emphasis is placed on implementing AI/ML solutions, deploying advanced analytics, integrating autonomous systems, and optimizing performance.\n- The transformation phase includes deploying a full digital ecosystem, establishing innovation hubs, developing external partnerships, and positioning for market leadership.\n\n**Factual Data Points and Statistics:**\n- Total capital investment is projected at $5.5 billion, allocated as follows:\n  - Technology Infrastructure: $2.5 billion\n  - Digital Platforms: $1.8 billion\n  - Workforce Development: $500 million\n  - Innovation Programs: $700 million\n- Expected annual returns include:\n  - Operational cost savings of $3.2 billion\n  - Efficiency gains of 25%\n  - Risk reduction with a 30% decrease in incidents\n  - Market value creation of $15 billion\n\n**Organizations or Stakeholders Involved:**\n- The text does not specify particular organizations or stakeholders by name.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- Strategic pillars include AI/ML solution implementation, advanced analytics deployment, autonomous system integration, and full digital ecosystem deployment.\n- Benefits and outcomes focus on cost savings, efficiency improvements, risk reduction, and market value creation.\n- Action plans involve establishing innovation hubs and developing external partnerships to achieve market leadership.\n\n**Trends or Stages of AI Adoption, Digital Transformation, and",
+        "overlap_tokens": 0
+      },
+      {
+        "page": 3,
+        "chunk_index": 0,
+        "strategy": "per_page_overlap_summary",
+        "original_tokens": 164,
+        "summary_tokens": 304,
+        "summary": "**Key Themes and Insights:**\n- The document focuses on stakeholder alignment and mitigation strategies within a digital transformation initiative.\n- Emphasis is placed on a comprehensive security framework, phased implementation, continuous learning, and stakeholder engagement.\n\n**Factual Data Points and Statistics:**\n- Operational efficiency is expected to improve by 25%.\n- Annual cost reduction is projected at $3.2 billion.\n- Safety performance aims for zero incidents.\n- Environmental impact is targeted for a 25% reduction.\n\n**Organizations or Stakeholders Involved:**\n- Internal stakeholders include employees, management, operations, and IT departments.\n- External stakeholders consist of shareholders, customers, partners, and communities.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- Strategic pillars include security, phased implementation, learning programs, and engagement protocols.\n- Benefits for internal stakeholders:\n  - Employees: Enhanced skills and career development.\n  - Management: Improved decision-making capabilities.\n  - Operations: Streamlined processes and reduced workload.\n  - IT: Modern technology infrastructure.\n- Benefits for external stakeholders:\n  - Shareholders: Increased value and returns.\n  - Customers: Improved service quality.\n  - Partners: Enhanced collaboration opportunities.\n  - Communities: Sustainable development initiatives.\n\n**Trends or Stages of AI Adoption, Digital Transformation, and Impact:**\n- The initiative is part of a broader digital transformation effort, indicating a trend towards modernizing technology infrastructure and processes.\n- The focus on continuous learning and innovation culture suggests an ongoing commitment",
+        "overlap_tokens": 0
+      },
+      {
+        "page": 4,
+        "chunk_index": 0,
+        "strategy": "per_page_overlap_summary",
+        "original_tokens": 165,
+        "summary_tokens": 303,
+        "summary": "**Key Themes and Insights:**\n- The document outlines a strategic imperative for ADNOC's future success, focusing on operational excellence, sustainable growth, and maintaining its position as a global energy leader.\n- Systematic implementation and continuous innovation are emphasized as critical components for achieving these goals.\n\n**Factual Data Points and Statistics:**\n- The document includes a detailed financial analysis with investment breakdowns by phase, ROI projections, sensitivity analysis, and risk-adjusted return calculations, although specific figures are not provided in the text.\n\n**Names of Organizations or Stakeholders Involved:**\n- ADNOC (Abu Dhabi National Oil Company) is the primary organization involved.\n\n**Strategic Pillars, Benefits, and Action Plans:**\n- **Strategic Pillars:**\n  - Operational excellence\n  - Sustainable growth\n  - Global energy leadership\n- **Action Plans:**\n  - Board approval and funding allocation\n  - Formation of an executive team and governance structure\n  - Detailed implementation planning\n  - Stakeholder communication and engagement\n  - Initiation of Phase 1 execution\n- **Benefits:**\n  - Achieving operational excellence and sustainable growth\n  - Maintaining a leadership position in the global energy sector\n\n**Trends or Stages of AI Adoption, Digital Transformation, and Impact:**\n- The document suggests a structured approach to digital transformation through a technology roadmap, which includes platform architecture, integration requirements, vendor selection, and implementation methodology.\n- Change management is addressed with a focus on",
+        "overlap_tokens": 0
+      }
+    ]
+  }
+]

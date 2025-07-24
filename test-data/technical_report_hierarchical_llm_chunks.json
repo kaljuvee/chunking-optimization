@@ -1,0 +1,262 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Technical Implementation Report: Advanced Chunking Strategies",
+    "strategy": "hierarchical_llm",
+    "tokens": 6,
+    "metadata": {
+      "chunk_size": 6,
+      "word_count": 6,
+      "char_count": 61,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 0
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Executive Summary\nThis report presents a comprehensive analysis of advanced chunking strategies for document processing systems. The implementation focuses on improving retrieval accuracy and semantic coherence in RAG (Retrieval-Augmented Generation) applications.",
+    "strategy": "hierarchical_llm",
+    "tokens": 31,
+    "metadata": {
+      "chunk_size": 31,
+      "word_count": 31,
+      "char_count": 264,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 1
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Background and Context\nTraditional document chunking approaches rely on fixed-size segmentation, which often breaks semantic units and reduces retrieval effectiveness. Modern approaches leverage machine learning and natural language processing to create more intelligent chunking strategies.",
+    "strategy": "hierarchical_llm",
+    "tokens": 35,
+    "metadata": {
+      "chunk_size": 35,
+      "word_count": 35,
+      "char_count": 291,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 2
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Methodology",
+    "strategy": "hierarchical_llm",
+    "tokens": 1,
+    "metadata": {
+      "chunk_size": 1,
+      "word_count": 1,
+      "char_count": 11,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 3
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Our approach combines multiple techniques:\n1. Semantic analysis using transformer-based models",
+    "strategy": "hierarchical_llm",
+    "tokens": 11,
+    "metadata": {
+      "chunk_size": 11,
+      "word_count": 11,
+      "char_count": 94,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 4
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "2. Hierarchical document structure analysis",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 43,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 5
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "3. Content-aware boundary detection",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 35,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 6
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "4. Dynamic chunk size optimization",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 34,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 7
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Results and Analysis",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 20,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 8
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Preliminary results show significant improvements in retrieval accuracy:\n- Semantic chunking: 23% improvement in precision\n- Content-aware chunking: 18% improvement in recall\n- Hierarchical chunking: 31% improvement in F1-score",
+    "strategy": "hierarchical_llm",
+    "tokens": 29,
+    "metadata": {
+      "chunk_size": 29,
+      "word_count": 29,
+      "char_count": 227,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 9
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "Technical Implementation Details",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 10
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "The system architecture consists of three main components:",
+    "strategy": "hierarchical_llm",
+    "tokens": 8,
+    "metadata": {
+      "chunk_size": 8,
+      "word_count": 8,
+      "char_count": 58,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 11
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "1. Document Preprocessing Module",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 12
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "2. Chunking Strategy Engine",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 27,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 13
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "3. Evaluation and Optimization Framework\nEach component is designed for scalability and extensibility, allowing for easy integration of new chunking strategies and evaluation metrics.",
+    "strategy": "hierarchical_llm",
+    "tokens": 24,
+    "metadata": {
+      "chunk_size": 24,
+      "word_count": 24,
+      "char_count": 183,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 14
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Performance Considerations",
+    "strategy": "hierarchical_llm",
+    "tokens": 2,
+    "metadata": {
+      "chunk_size": 2,
+      "word_count": 2,
+      "char_count": 26,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 15
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Processing time varies significantly between strategies:\n- Traditional fixed-size: 0.5 seconds per document\n- Semantic chunking: 2.3 seconds per document\n- Content-aware chunking: 3.1 seconds per document\n- Hierarchical chunking: 4.2 seconds per document",
+    "strategy": "hierarchical_llm",
+    "tokens": 34,
+    "metadata": {
+      "chunk_size": 34,
+      "word_count": 34,
+      "char_count": 254,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 16
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "Future Work",
+    "strategy": "hierarchical_llm",
+    "tokens": 2,
+    "metadata": {
+      "chunk_size": 2,
+      "word_count": 2,
+      "char_count": 11,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 17
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "Planned improvements include:\n- Multi-modal chunking for documents with images and tables\n- Domain-specific optimization for technical and legal documents\n- Real-time chunking for streaming document processing\n- Advanced evaluation metrics for RAG-specific performance",
+    "strategy": "hierarchical_llm",
+    "tokens": 34,
+    "metadata": {
+      "chunk_size": 34,
+      "word_count": 34,
+      "char_count": 268,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 18
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "Conclusion\nAdvanced chunking strategies provide substantial improvements over traditional approaches. The trade-off between processing time and retrieval accuracy should be carefully considered based on specific use case requirements.",
+    "strategy": "hierarchical_llm",
+    "tokens": 28,
+    "metadata": {
+      "chunk_size": 28,
+      "word_count": 28,
+      "char_count": 234,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 19
+    }
+  }
+]

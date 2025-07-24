@@ -1,0 +1,58 @@
+[
+  {
+    "Method": "content",
+    "Document": "aware_chunker_executive_summaries.txt",
+    "Model": "gpt-4",
+    "Num_Chunks": 13,
+    "Avg_Chunk_Size": 376.12040129258895,
+    "Chunk_Size_Std": 149.5348379860804,
+    "Coherence_Score": 0.87252463631373,
+    "Processing_Time": 1.739425399071993,
+    "Token_Efficiency": 0.7466108228082265,
+    "Total_Tokens": 3343,
+    "Cost_Estimate": 0.05239723873352182,
+    "Test_Key": "content_aware_chunker_executive_summaries.txt"
+  },
+  {
+    "Method": "content",
+    "Document": "aware_chunker_mixed_content.txt",
+    "Model": "gpt-4",
+    "Num_Chunks": 14,
+    "Avg_Chunk_Size": 251.50454909000723,
+    "Chunk_Size_Std": 145.81720942819413,
+    "Coherence_Score": 0.8720543159478886,
+    "Processing_Time": 4.242836210811593,
+    "Token_Efficiency": 0.8522800223785878,
+    "Total_Tokens": 2732,
+    "Cost_Estimate": 0.03115110632514878,
+    "Test_Key": "content_aware_chunker_mixed_content.txt"
+  },
+  {
+    "Method": "hierarchical",
+    "Document": "chunker_executive_summaries.txt",
+    "Model": "gpt-4",
+    "Num_Chunks": 5,
+    "Avg_Chunk_Size": 381.9885570007125,
+    "Chunk_Size_Std": 82.66815377188553,
+    "Coherence_Score": 0.7844393600967867,
+    "Processing_Time": 1.7821304021023407,
+    "Token_Efficiency": 0.7598604271971924,
+    "Total_Tokens": 1219,
+    "Cost_Estimate": 0.04327937954831875,
+    "Test_Key": "hierarchical_chunker_executive_summaries.txt"
+  },
+  {
+    "Method": "hierarchical",
+    "Document": "chunker_mixed_content.txt",
+    "Model": "gpt-4",
+    "Num_Chunks": 5,
+    "Avg_Chunk_Size": 288.32246972953493,
+    "Chunk_Size_Std": 149.7671259359126,
+    "Coherence_Score": 0.6918867674098189,
+    "Processing_Time": 1.2608098362761688,
+    "Token_Efficiency": 0.7280266771209649,
+    "Total_Tokens": 3444,
+    "Cost_Estimate": 0.05792019507965861,
+    "Test_Key": "hierarchical_chunker_mixed_content.txt"
+  }
+]

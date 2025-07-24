@@ -1,0 +1,100 @@
+# Script to Output File Mapping
+
+This document shows the unified naming scheme between scripts and their corresponding output files for easy comparison.
+
+## Azure OpenAI Scripts (with summarization)
+
+| Script Name | Output File | Description |
+|-------------|-------------|-------------|
+| `azure_page_summary.py` | `adnoc_page_summary.json` | Summarize each page individually using Azure GPT-4o |
+| `azure_full_summary.py` | `adnoc_full_doc_overlap_summary.json` | Summarize full document in page chunks using Azure GPT-4o |
+| `azure_page_overlap.py` | `adnoc_page_overlap_summary.json` | Chunk each page with overlap and summarize using Azure GPT-4o |
+| `azure_full_overlap.py` | `adnoc_full_doc_overlap_summary.json` | Chunk full document with overlap and summarize using Azure GPT-4o |
+| `azure_semantic.py` | `adnoc_semantic_chunks_azure.json` | Semantic chunking using Azure OpenAI embeddings |
+| `azure_advanced_semantic.py` | `adnoc_advanced_semantic_microsoft.json` | **NEW**: Advanced semantic chunking using Microsoft's multi-stage approach |
+| `azure_hierarchical.py` | `adnoc_hierarchical_chunks.json` | **NEW**: Hierarchical chunking with parent-child relationships |
+| `azure_content_aware.py` | `adnoc_content_aware_chunks.json` | **NEW**: Content-aware chunking using LLM boundary detection |
+
+## LangChain Scripts (raw chunking, no summarization)
+
+| Script Name | Output File | Description |
+|-------------|-------------|-------------|
+| `langchain_page_overlap.py` | `adnoc_per_page_langchain.json` | Chunk each page with overlap using LangChain TextSplitter |
+| `langchain_full_overlap.py` | `adnoc_full_langchain.json` | Chunk full document with overlap using LangChain TextSplitter |
+| `langchain_semantic_mini.py` | `adnoc_semantic_chunks_azure.json` | Semantic chunking using local SentenceTransformer |
+
+## Naming Convention
+
+### Script Names
+- **Azure scripts**: `azure_<strategy>.py`
+- **LangChain scripts**: `langchain_<strategy>.py`
+
+### Output Files
+- **Page-level**: `adnoc_page_<strategy>.json`
+- **Full document**: `adnoc_full_<strategy>.json`
+- **Semantic**: `adnoc_semantic_<strategy>.json`
+- **Advanced**: `adnoc_advanced_<strategy>.json`
+- **Hierarchical**: `adnoc_hierarchical_<strategy>.json`
+- **Content-aware**: `adnoc_content_aware_<strategy>.json`
+
+## Usage Examples
+
+```bash
+# Azure page summary
+python scripts/azure_page_summary.py -i data/document.pdf -o outputs/adnoc_page_summary.json
+
+# LangChain full document chunking
+python scripts/langchain_full_overlap.py -i data/document.pdf -o outputs/adnoc_full_langchain.json
+
+# Azure semantic chunking
+python scripts/azure_semantic.py -i data/document.pdf -o outputs/adnoc_semantic_chunks_azure.json
+
+# Advanced Microsoft semantic chunking
+python scripts/azure_advanced_semantic.py -i data/document.pdf -o outputs/adnoc_advanced_semantic_microsoft.json
+
+# Hierarchical chunking
+python scripts/azure_hierarchical.py -i data/document.pdf -o outputs/adnoc_hierarchical_chunks.json --flat-output
+
+# Content-aware chunking
+python scripts/azure_content_aware.py -i data/document.pdf -o outputs/adnoc_content_aware_chunks.json --chunk-size 500 --overlap 50
+```
+
+## Strategy Types
+
+1. **Page Summary**: Each page is summarized individually
+2. **Full Summary**: Document is chunked by pages and each chunk is summarized
+3. **Page Overlap**: Each page is chunked with overlap and each chunk is summarized
+4. **Full Overlap**: Full document is chunked with overlap and each chunk is summarized
+5. **Semantic**: Document is chunked semantically using embeddings
+6. **Advanced Semantic**: Multi-stage chunking with header-based splitting, sentence splitting, and semantic merging
+7. **Hierarchical**: Multi-level chunking with parent-child relationships for context-aware retrieval
+8. **Content-Aware**: LLM-powered boundary detection for natural breakpoints
+
+## Advanced Semantic Features
+
+The `azure_advanced_semantic.py` script includes:
+- **Multi-stage processing**: Header-based → sentence-based → semantic merging
+- **Table handling**: Special GPT-powered table splitting for large HTML tables
+- **Semantic similarity**: Using sentence-transformers for similarity calculations
+- **Async processing**: Optimized for performance with concurrent operations
+- **Header preservation**: Maintains document structure and parent headers
+- **Fallback mechanisms**: Multiple strategies for handling edge cases
+
+## Hierarchical Chunking Features
+
+The `azure_hierarchical.py` script includes:
+- **Multi-level hierarchy**: Document → Sections → Subsections → Paragraphs → Sentences
+- **Parent-child relationships**: Maintains context paths and sibling relationships
+- **LLM-powered analysis**: Uses GPT-4o for intelligent section identification
+- **Context-aware retrieval**: Can retrieve chunks with full context path
+- **Flexible output**: Can output full hierarchy or flat chunks by level
+
+## Content-Aware Chunking Features
+
+The `azure_content_aware.py` script includes:
+- **LLM boundary detection**: Uses GPT-4o to identify natural breakpoints
+- **Multi-factor scoring**: Combines confidence, size, and boundary type preferences
+- **Boundary types**: Supports section, paragraph, topic, and sentence boundaries
+- **Overlap management**: Configurable overlap between chunks
+- **Robust JSON parsing**: Multiple fallback methods for LLM responses
+- **Chunk optimization**: Validates and optimizes chunks for coherence 

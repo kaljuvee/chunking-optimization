@@ -1,0 +1,1415 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Internal\nADNOC Logistics & Services\nFULL-YEAR 2024\nRESULTS PRESENTATION\n12 February 2025\nADNOC Classification: Internal ADNOC Logistics & Services FULL-YEAR 2024 RESULTS PRESENTATION 12 February 2025\nADNOC Classification: Public\nADNOC Classification: Public\nDisclaimer\n2\nThis presentation has been prepared by ADNOC Logistics & Services Plc (the ‘Company’) based on publicly available information and non-public information to assist you in \nmaking a preliminary analysis of the content referenced herein solely for informational purposes. It should not be construed as an offer to sell or a solicitation of an indication of \ninterest to purchase any equities, security, option, commodity, future, loan or currency including a private sale of shares in the Company (the Financing Instruments).\nIt is not targeted to the specific investment objectives, financial situation or particular needs of any recipient It is not intended to provide the basis for any third-party evaluation of any \nFinancing Instrument or any offering of them and should not be considered as a recommendation that any recipients should subscribe for or purchase any Financing Instruments. \nThe recipient agrees to keep confidential any information contained herein and any other written or oral information otherwise made available in connection with any potential \ntransaction related to this presentation and shall not reproduce, publish, distribute or otherwise divulge such information to any other person(s) other than in accordance with any \napplicable non-disclosure agreements executed by the recipient with the Company.\nNone of the Company or any of its affiliates or advisors make any representation or warranty as to the fairness, accuracy, adequacy or completeness of the information, the \nassumptions on which it is based, the reasonableness of any projections or forecasts contained herein or any further information supplied or the suitability of any investment for your \npurpose. None of the Company or any of its affiliates or advisors, or their respective directors, officers or employees, share any responsibility for any loss, damage or other result \narising from your reliance on this information. Each of the Company, its affiliates and advisors therefore disclaim any and all liability relating to this presentation including without \nlimitation any express or implied representations or warranties for statements contained in, and omissions from, the information herein. No recipient of this presentation should rely \nupon any information contained in this presentation, including but not limited to any historical financial data, forward looking statements, forecasts, projections or predictions. \nThe Company, their affiliates and advisors are acting solely in the capacity of an arm’s length counterparty and not in the capacity of your financial advisor or fiduciary. Such \ninformation is represented as of the date and, if applicable, time indicated and the Company, its affiliates and advisors do not accept any responsibility for updating any such \ninformation. \nNothing in this presentation should be construed as legal, tax, regulatory, accounting or investment advice. The recipients should seek and rely upon the advice of its own \nprofessionals and other advisors for such matters. \nThis presentation may be recorded, and the Company will assume that by attending this presentation the recipient consents to such recording.\nAbsolute figures and percentages included in this document have been subject to rounding adjustments.\nADNOC Classification: Public ADNOC Classification: Public Disclaimer This presentation has been prepared by ADNOC Logistics & Services Plc (the ‘Company’) based on publicly available information and non-public information to assist you in making a preliminary analysis of the content referenced herein solely for informational purposes.",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 565,
+      "page": 0
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "It should not be construed as an offer to sell or a solicitation of an indication of interest to purchase any equities, security, option, commodity, future, loan or currency including a private sale of shares in the Company (the Financing Instruments). It is not targeted to the specific investment objectives, financial situation or particular needs of any recipient.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Non-Solicitation Statement",
+      "word_count": 50,
+      "reasoning": "This chunk clarifies that the presentation is not an offer or solicitation and is not tailored to specific investment needs.",
+      "parsing_method": "json_success",
+      "page": 1
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "It is not intended to provide the basis for any third-party evaluation of any Financing Instrument or any offering of them and should not be considered as a recommendation that any recipients should subscribe for or purchase any Financing Instruments. The recipient agrees to keep confidential any information contained herein and any other written or oral information otherwise made available in connection with any potential transaction related to this presentation.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Confidentiality and Non-Recommendation",
+      "word_count": 61,
+      "reasoning": "This chunk emphasizes confidentiality and states that the presentation is not a recommendation for investment.",
+      "parsing_method": "json_success",
+      "page": 1
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "None of the Company or any of its affiliates or advisors make any representation or warranty as to the fairness, accuracy, adequacy or completeness of the information, the assumptions on which it is based, the reasonableness of any projections or forecasts contained herein or any further information supplied or the suitability of any investment for your purpose.\nNone of the Company or any of its affiliates or advisors, or their respective directors, officers or employees, share any responsibility for any loss, damage or other result arising from your reliance on this information. Each of the Company, its affiliates and advisors therefore disclaim any and all liability relating to this presentation including without limitation any express or implied representations or warranties for statements contained in, and omissions from, the information herein.\nNo recipient of this presentation should rely upon any information contained in this presentation, including but not limited to any historical financial data, forward looking statements, forecasts, projections or predictions. The Company, their affiliates and advisors are acting solely in the capacity of an arm’s length counterparty and not in the capacity of your financial advisor or fiduciary.\nSuch information is represented as of the date and, if applicable, time indicated and the Company, its affiliates and advisors do not accept any responsibility for updating any such information. Nothing in this presentation should be construed as legal, tax, regulatory, accounting or investment advice. The recipients should seek and rely upon the advice of its own professionals and other advisors for such matters.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Disclaimer on Information Accuracy",
+      "word_count": 252,
+      "reasoning": "This chunk provides a disclaimer regarding the accuracy and completeness of the information presented.",
+      "parsing_method": "json_success",
+      "page": 1
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "This presentation may be recorded, and the Company will assume that by attending this presentation the recipient consents to such recording. Absolute figures and percentages included in this document have been subject to rounding adjustments.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Recording and Rounding Adjustments",
+      "word_count": 35,
+      "reasoning": "This chunk concludes the document by addressing recording consent and rounding adjustments in the figures presented.",
+      "parsing_method": "json_success",
+      "page": 1
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\nAgenda & Presenters\n3\nHealth & Safety\nExecutive Summary\nFY 2024 Highlights\nFinancial & Operational Performance\nDecarbonization & Sustainability\nGrowth Outlook & Guidance \nClosing Remarks\n1\n2\n3\n4\n5\n6\n7\nAbdulkareem Al Masabi\nChief Executive Officer\nNicholas Gleeson\nChief Financial Officer\nAppendix\n8\nADNOC Classification: Public ADNOC Classification: Public Agenda & Presenters 3 Health & Safety Executive Summary FY 2024 Highlights Financial & Operational Performance Decarbonization & Sustainability Growth Outlook & Guidance Closing Remarks 1 2 3 4 5 6 7 Abdulkareem Al Masabi Chief Executive Officer Nicholas Gleeson Chief Financial Officer Appendix 8",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 102,
+      "page": 2
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n100% Health, Safety & Environment: ADNOC L&S’ \nLeading Principle \n4\nContinued strong focus on health & safety KPIs\n0.65\n0.51\n0.36\n0.59\n0.38\n0.18\n0.18\n0.21\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n0.35\n0.17\n0.04\n0.31\n0.10\n0.08\n0.10\n0.11\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\nOutstanding Health & Safety Track Record\nLost Time Incident Frequency (LTIF)\nTotal Recordable Incident Rate (TRIR) \nLeading With Innovation \nAI-enabled Integrated Logistics Management \nSystem (ILMS)\nAI-enabled tool that helps create vessel routes and \nschedules, improving decision-making, operational \nefficiency and abating carbon emissions. The pilot \nproject has now commenced, with anticipated scale-\nup from 2027. The proof-of-concept study completed \nin 2024 found the potential to:\n▪\n+5% increase in fleet optimization, boosting \nefficiency across L&S OSV fleet\n▪\n+9% increase in utilization, ensuring better \ndeployment of assets\n▪\n-60% reduction in non-productive time\n▪\nIdeas UK 37th International Conference - Health \nand Safety category, runner-up: Digital \nTwin project\n▪\nShiptek - Ship Operator of the Year\n▪\nThe Maritime Standard (TMS) Awards 2024 – \nShip Owner / Operator of the Year Award\nADNOC Classification: Public 100% Health, Safety & Environment: ADNOC L&S’ Leading Principle Continued strong focus on health & safety KPIs 0.65 0.51 0.36 0.59 0.38 0.18 0.18 0.21 2017 2018 2019 2020 2021 2022 2023 2024 0.35 0.17 0.04 0.31 0.10 0.08 0.10 0.11 2017 2018 2019 2020 2021 2022 2023 2024 Outstanding Health & Safety Track Record Lost Time Incident Frequency (LTIF) Total Recordable Incident Rate (TRIR)",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 255,
+      "page": 3
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Leading With Innovation AI-enabled Integrated Logistics Management System (ILMS) AI-enabled tool that helps create vessel routes and schedules, improving decision-making, operational efficiency and abating carbon emissions. The pilot project has now commenced, with anticipated scale-up from 2027. The proof-of-concept study completed in 2024 found the potential to: +5% increase in fleet optimization, boosting efficiency across L&S OSV fleet +9% increase in utilization, ensuring better deployment of assets -60% reduction in non-productive time Ideas UK 37th International Conference - Health and Safety category, runner-up: Digital Twin project Shiptek - Ship Operator of the Year The Maritime Standard (TMS) Awards 2024 – Ship Owner / Operator of the Year Award\nLeading With Innovation AI-enabled Integrated Logistics Management System (ILMS) AI-enabled tool that helps create vessel routes and schedules, improving decision-making, operational efficiency and abating carbon emissions. The pilot project has now commenced, with anticipated scale-up from 2027.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [
+      "doc_0_sections_1_subsections_0",
+      "doc_0_sections_1_subsections_1",
+      "doc_0_sections_1_subsections_2"
+    ],
+    "metadata": {
+      "type": "sections",
+      "title": "Innovation and Recognition",
+      "word_count": 145,
+      "reasoning": "This chunk highlights ADNOC L&S' innovative initiatives, such as the AI-enabled ILMS, and their recognition through various awards.",
+      "parsing_method": "json_success",
+      "page": 3
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "The proof-of-concept study completed in 2024 found the potential to: +5% increase in fleet optimization, boosting efficiency across L&S OSV fleet +9% increase in utilization, ensuring better deployment of assets -60% reduction in non-productive time",
+    "strategy": "hierarchical_level_2",
+    "level": 2,
+    "parent_id": "doc_0_sections_1",
+    "children_ids": [],
+    "metadata": {
+      "type": "subsections",
+      "title": "Proof-of-Concept Study Results",
+      "word_count": 38,
+      "reasoning": "This chunk focuses on the results of the proof-of-concept study, detailing specific improvements in fleet optimization, utilization, and reduction in non-productive time.",
+      "parsing_method": "json_success",
+      "page": 3
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Ideas UK 37th International Conference - Health and Safety category, runner-up: Digital Twin project Shiptek - Ship Operator of the Year The Maritime Standard (TMS) Awards 2024 – Ship Owner / Operator of the Year Award",
+    "strategy": "hierarchical_level_2",
+    "level": 2,
+    "parent_id": "doc_0_sections_1",
+    "children_ids": [],
+    "metadata": {
+      "type": "subsections",
+      "title": "Awards and Recognitions",
+      "word_count": 33,
+      "reasoning": "This chunk highlights the awards and recognitions received, providing a logical conclusion to the text by showcasing achievements.",
+      "parsing_method": "json_success",
+      "page": 3
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n5\n▪\nContinued profitable expansion in the Integrated Logistics business \nadding 20 offshore assets during 2024\n▪\nSecured 340 years of long-term contracts, underpinning earnings visibility \nand ring-fenced cash flows\n▪\nCAPEX investment ongoing into 14 LNGCs2, four VLACs3 and nine VLECs3 \nall scheduled for delivery between 2025-2028, with the majority of them \nbeing contacted up to 20 years upon delivery\n▪\nDelivery of Al Shelila LNG Carrier ahead of schedule\nFY 2024 Key Business Highlights & Milestones\n1FY2024 CAPEX includes 50% AWS investments in VLECs and VLACs plus accrued CAPEX, 2Additional two options potentially to be exercised, 3JV with AW Shipping, \n$3,549 m \nRevenue up \n29% YoY\n$1,149 m\nEBITDA up \n31% YoY\n$756 m\nNet profit up \n22% YoY\n$1,384 m1 \nFY2024 \nCAPEX\n$185 m \nFCF up \n313% YoY\nFY 2024 Key Financial Highlights\nExecutive Summary FY 2024\nADNOC Classification: Public ADNOC Classification: Public 5 ▪ Continued profitable expansion in the Integrated Logistics business adding 20 offshore assets during 2024 ▪ Secured 340 years of long-term contracts, underpinning earnings visibility and ring-fenced cash flows ▪ CAPEX investment ongoing into 14 LNGCs, four VLACs and nine VLECs all scheduled for delivery between 2025-2028, with the majority of them being contracted up to 20 years upon delivery ▪ Delivery of Al Shelila LNG Carrier ahead of schedule\nFY 2024 Key Business Highlights & Milestones 1FY2024 CAPEX includes 50% AWS investments in VLECs and VLACs plus accrued CAPEX, 2Additional two options potentially to be exercised, 3JV with AW Shipping, $3,549 m Revenue up 29% YoY $1,149 m EBITDA up 31% YoY $756 m Net profit up 22% YoY $1,384 m FY2024 CAPEX $185 m FCF up 313% YoY",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 283,
+      "page": 4
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Executive Summary FY 2024",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Executive Summary Title",
+      "word_count": 4,
+      "reasoning": "This standalone title introduces the executive summary section, marking a logical break in the document structure.",
+      "parsing_method": "json_success",
+      "page": 4
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n~35%\n▪Revenue US$3,549 million up 29% YoY supported by exceptional performance across all \nbusiness segments\n▪EBITDA US$1,149 million up 31% YoY in line with guidance while EBITDA margin up 60bps to \n32.4% supported by continuing efficiency improvements in Integrated Logistics and strong rates \nin JUBs and Tankers\n▪Net profit US$756 million up 22% YoY meeting full year guidance\n▪2024 Interim dividend of US$136.5 million (AED501.3 million), equivalent to 6.78 Fils per share\n~60%\n~9%\n31%\n▪\nStronger charter rates for Tankers and Dry Bulk in 1H 2024 coupled with \nadditional revenue from four VLCCs acquired in 2023\n▪\nShipping EBITDA margin accordingly expanded by 300 bps YoY\n~64%\n~27%\n6\nTHREE KEY \nOPERATING \nSEGMENTS\nIntegrated Logistics\nRevenue\nEBITDA\nUS$2,281m 40% YoY\nUS$687m 30% YoY\nServices\n2024 Profitability Summary vs Guidance \n(YoY growth) \nKPI\nActual \n2024 \nGuidance\nShipping\nCommentary\n▪\nContinued strong JUB utilization along with growing volumes of ILSP & \nnon-ILSP contracts and progression on projects execution (Hail & Ghasha \nand G-Island)\nRevenue\nEBITDA\nNet Income\n29%\n22%\nLow to mid \n30%s\nLow 30%s\nLow 20%s\n▪\nServices revenue growth is due to the increase in volume of petroleum \nports and onshore terminals operations\nUS$956m 14% YoY\nUS$312m 10% YoY\nUS$396m 24% YoY\nUS$56m 26% YoY\nADNOC L&S continues to deliver outstanding profitable growth \nFY 2024 Results Highlights\n~5%\nADNOC Classification: Public ~35% ▪Revenue US$3,549 million up 29% YoY supported by exceptional performance across all business segments ▪EBITDA US$1,149 million up 31% YoY in line with guidance while EBITDA margin up 60bps to 32.4% supported by continuing efficiency improvements in Integrated Logistics and strong rates in JUBs and Tankers ▪Net profit US$756 million up 22% YoY meeting full year guidance ▪2024 Interim dividend of US$136.5 million (AED501.3 million), equivalent to 6.78 Fils per share\n~60% ~9% 31% ▪ Stronger charter rates for Tankers and Dry Bulk in 1H 2024 coupled with additional revenue from four VLCCs acquired in 2023 ▪ Shipping EBITDA margin accordingly expanded by 300 bps YoY ~64% ~27% 6 THREE KEY OPERATING SEGMENTS Integrated Logistics Revenue EBITDA US$2,281m 40% YoY US$687m 30% YoY Services\n2024 Profitability Summary vs Guidance (YoY growth) KPI Actual 2024 Guidance Shipping Commentary ▪ Continued strong JUB utilization along with growing volumes of ILSP & non-ILSP contracts and progression on projects execution (Hail & Ghasha and G-Island) Revenue EBITDA Net Income 29% 22% Low to mid 30%s Low 30%s Low 20%s ▪ Services revenue growth is due to the increase in volume of petroleum ports and onshore terminals operations US$956m 14% YoY US$312m 10% YoY US$396m 24% YoY US$56m 26% YoY ADNOC L&S continues to deliver outstanding profitable growth FY 2024 Results Highlights ~5%\nADNOC Classification: Public\nADNOC Classification: Public\nIncome Statements:\n▪\nRevenue increased by 29% YoY to US$3.55b\n▪\nEBITDA up 31% YoY to US$1.1 billion \nmaintaining a solid margin of 32% \n▪\nNet profit US$756 million, a 22% increase\nBalance Sheet:\n▪\nNet debt to EBITDA increased to 0.47x \ncompared to 0.08x in 2023, in line with our \ngrowth strategy\n▪\nSufficient debt financing capacity available to \nsupport further transformational growth\nCash Flow:\n▪\nStrong free cash flow of US$185 million up \n313% YoY despite transformational growth \nCAPEX strategy\n7\n1 Number of shares authorized, issued and fully paid as of 31 December 2024 equated to 7.4 billion ordinary shares of USD 0.54 each.  2Operating Free Cash Flow\n(US$ millions)\nFY 23\nFY 24\nYoY %\nRevenue\n2,755\n3,549\n29%\nEBITDA \n876\n1,149\n31%\nEBITDA Margin\n31.8%\n32.4%\n0.6%\nNet Profit \n620 \n756\n22%\nEPS ($ / share)1\n0.08 \n0.10 \n22%\n2024 Financial Highlights\nFY 23\nFY 24\nYoY %\nNet Debt (US$m)\n74 \n540\n632%\nNet Debt/EBITDA (x)\n0.08\n0.47\n-\nOFCF2 \n819 \n996 \n22%\nCAPEX (US$m)\n(774)\n(811) \n5%\nFree Cash Flow \n(US$m)\n45\n185\n313%\nQ4 23\nQ4 24\nYoY%\nQ3 24 QoQ %\n74\n540\n632% \n213\n153%\n0.08\n0.48\n-\n0.19\n-\n(270)\n288\n65%\n174\n65%\n(270)\n(450)\n67%\n(136)\n231%\n(95)\n(162)\n(70%)\n39\n(517%)\nQ4 23\nQ4 24\nYoY%\nQ3 24 QoQ %\n828\n881\n6%\n928\n-5%\n242\n282\n17%\n275\n2%\n29%\n32%\n3%\n30%\n2%\n165\n180\n9%\n175\n3%\n0.02\n0.02\n9%\n0.02\n3%\nFinancial Summary & KPIs\nStrong growth metrics supported by value-adding investments and continuous efficiency enhancements",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 717,
+      "page": 5
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "ADNOC Classification: Public Income Statements: Revenue increased by 29% YoY to US$3.55b EBITDA up 31% YoY to US$1.1 billion maintaining a solid margin of 32% Net profit US$756 million, a 22% increase",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Income Statements Overview",
+      "word_count": 38,
+      "reasoning": "This chunk summarizes the key financial performance metrics related to income statements, providing a clear snapshot of revenue, EBITDA, and net profit growth.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Balance Sheet: Net debt to EBITDA increased to 0.47x compared to 0.08x in 2023, in line with our growth strategy Sufficient debt financing capacity available to support further transformational growth",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Balance Sheet Highlights",
+      "word_count": 34,
+      "reasoning": "This chunk focuses on balance sheet metrics, emphasizing changes in net debt to EBITDA and the company's capacity for financing growth.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Cash Flow: Strong free cash flow of US$185 million up 313% YoY despite transformational growth CAPEX strategy",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Cash Flow Summary",
+      "word_count": 18,
+      "reasoning": "This chunk highlights the cash flow performance, specifically the significant YoY increase in free cash flow despite CAPEX investments.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Number of shares authorized, issued and fully paid as of 31 December 2024 equated to 7.4 billion ordinary shares of USD 0.54 each.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Share Information",
+      "word_count": 21,
+      "reasoning": "This chunk provides specific details about the company's share structure as of the end of 2024, which is a distinct topic.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Operating Free Cash Flow (US$ millions) FY 23 FY 24 YoY % Revenue 2,755 3,549 29% EBITDA 876 1,149 31% EBITDA Margin 31.8% 32.4% 0.6% Net Profit 620 756 22% EPS ($ / share) 0.08 0.10 22%\n2024 Financial Highlights FY 23 FY 24 YoY % Net Debt (US$m) 74 540 632% Net Debt/EBITDA (x) 0.08 0.47 - OFCF 819 996 22% CAPEX (US$m) (774) (811) 5% Free Cash Flow (US$m) 45 185 313%",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Operating Free Cash Flow and Key Metrics",
+      "word_count": 74,
+      "reasoning": "This chunk presents a detailed breakdown of operating free cash flow and key financial metrics, maintaining coherence by grouping related data.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "Q4 23 Q4 24 YoY% Q3 24 QoQ % 74 540 632% 213 153% 0.08 0.48 - 0.19 - (270) 288 65% 174 65% (270) (450) 67% (136) 231% (95) (162) (70%) 39 (517%)\nQ4 23 Q4 24 YoY% Q3 24 QoQ % 828 881 6% 928 -5% 242 282 17% 275 2% 29% 32% 3% 30% 2% 165 180 9% 175 3% 0.02 0.02 9% 0.02 3%",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Quarterly Financial Metrics",
+      "word_count": 68,
+      "reasoning": "This chunk focuses on quarterly financial metrics, comparing Q4 2023, Q4 2024, and Q3 2024, providing a clear view of short-term performance trends.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Financial Summary & KPIs Strong growth metrics supported by value-adding investments and continuous efficiency enhancements",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Financial Summary and KPIs",
+      "word_count": 16,
+      "reasoning": "This chunk concludes the document with a summary of financial performance and key performance indicators, tying together the overall narrative.",
+      "parsing_method": "json_success",
+      "page": 6
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n8\nRevenue (US$ Million)\nEBITDA (US$ Million)\nNet Profit (US$ Million)\nKey Highlights\n▪\nRevenues up 40% YoY due to strong performance across the \nthree activities. Higher ILSP and non-ILSP volumes, progression \non Hail & Ghasha project, higher material handling volumes and \npositive progress on G-Island EPC project\n▪\nEBITDA up 30% YoY to US$687 million and margins well \nmaintained due to healthy JUB DCR rates coupled with higher \nutilization rates\n▪\nNet Profit increased by 19% YoY to US$448 million as operations \nacross the business improved\n1 Engineering Procurement and Construction. 2 Jack-Up Barges \nUS$m\nFY 23\nFY 24\nYoY %\nOffshore Contracting\n424\n498\n+17%\nOffshore Services\n93\n135\n+45%\nOffshore Projects\n10\n54\n+420%\nTOTAL\n528\n687\n+30%\nMargin %\n32\n30\n-2pp\nUS$m\nFY 23\nFY 24\nYoY %\nOffshore Contracting\n321\n334\n+4%\nOffshore Services\n47\n73\n+54%\nOffshore Projects\n9\n41\n+388%\nTOTAL\n376\n448\n+19%\nMargin %\n23\n20\n-3pp\nUS$m\nFY 23\nFY 24\nYoY %\nOffshore Contracting\n975\n1,108\n+14%\nOffshore Services\n501\n553\n+10%\nOffshore Projects\n157\n620\n+294%\nTOTAL\n1,632\n2,281\n+40%\nIntegrated Logistics – Financials\nStrong revenue and profitability growth driven by expansion in overall activity levels",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 205,
+      "page": 7
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "ADNOC Classification: Public ADNOC Classification: Public Revenue (US$ Million) EBITDA (US$ Million) Net Profit (US$ Million)",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Document Header and Financial Metrics",
+      "word_count": 15,
+      "reasoning": "This chunk introduces the document classification and key financial metrics, serving as a header for the content.",
+      "parsing_method": "json_success",
+      "page": 7
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Key Highlights ▪ Revenues up 40% YoY due to strong performance across the three activities. Higher ILSP and non-ILSP volumes, progression on Hail & Ghasha project, higher material handling volumes and positive progress on G-Island EPC project ▪ EBITDA up 30% YoY to US$687 million and margins well maintained due to healthy JUB DCR rates coupled with higher utilization rates ▪ Net Profit increased by 19% YoY to US$448 million as operations across the business improved",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Key Highlights of Financial Performance",
+      "word_count": 91,
+      "reasoning": "This chunk summarizes the key financial highlights, including revenue, EBITDA, and net profit growth, providing a high-level overview of performance.",
+      "parsing_method": "json_success",
+      "page": 7
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "US$m FY 23 FY 24 YoY % Offshore Contracting 424 498 +17% Offshore Services 93 135 +45% Offshore Projects 10 54 +420% TOTAL 528 687 +30% Margin % 32 30 -2pp\nUS$m FY 23 FY 24 YoY % Offshore Contracting 321 334 +4% Offshore Services 47 73 +54% Offshore Projects 9 41 +388% TOTAL 376 448 +19% Margin % 23 20 -3pp\nUS$m FY 23 FY 24 YoY % Offshore Contracting 975 1,108 +14% Offshore Services 501 553 +10% Offshore Projects 157 620 +294% TOTAL 1,632 2,281 +40% Integrated Logistics – Financials Strong revenue and profitability growth driven by expansion in overall activity levels",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "EBITDA Breakdown by Segment",
+      "word_count": 104,
+      "reasoning": "This chunk provides a detailed breakdown of EBITDA by segment, showing year-over-year changes and margin percentages.",
+      "parsing_method": "json_success",
+      "page": 7
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n39\n46\n9\n1 Kilo-Metric Ton.  2Jack-Up Barges owned & chartered\nNumber of Jack-Up Barges2 & Utilization (%)\nMaterial Handling Volume (KMT1)\nNumber of Vessels & Utilization (%)\nNumber of Vessels \nFY 23\nFY 24\nUtilization Rate\n95%\nFY 23\n96%\nFY 24\nFY 23\nFY 24\n98%\nFY 23\n98%\nFY 24\n41\n50\nFY 23\nFY 24\n▪\nHigh demand led to fleet expansion, adding nine offshore vessels \nand achieving high utilization rates across the fleet\n▪\nSince 2023, JUB fleet expansion has reinforced our status as the \nworld’s largest owner/operator of self-elevating, self-propelled \nJUBs. Our entire fleet is 100% contracted, benefiting from strong \ndemand for JUBs across the GCC\n▪\nDespite adverse weather conditions in Q1 2024, growing demand \nincreased handled volumes by 9% across ILSP and non-ILSP in \n2024\n+22%\n+9%\n+18%\nIntegrated Logistics: Offshore Contracting\nStrong growth across offshore contracting operational activities\nUtilization Rate\nNumber of JUBs\nADNOC Classification: Public ADNOC Classification: Public 39 46 9 1 Kilo-Metric Ton. 2Jack-Up Barges owned & chartered Number of Jack-Up Barges2 & Utilization (%) Material Handling Volume (KMT1) Number of Vessels & Utilization (%) Number of Vessels FY 23 FY 24 Utilization Rate 95% FY 23 96% FY 24 FY 23 FY 24 98% FY 23 98% FY 24 41 50 FY 23 FY 24\nHigh demand led to fleet expansion, adding nine offshore vessels and achieving high utilization rates across the fleet. Since 2023, JUB fleet expansion has reinforced our status as the world’s largest owner/operator of self-elevating, self-propelled JUBs. Our entire fleet is 100% contracted, benefiting from strong demand for JUBs across the GCC.\nDespite adverse weather conditions in Q1 2024, growing demand increased handled volumes by 9% across ILSP and non-ILSP in 2024. Integrated Logistics: Offshore Contracting Strong growth across offshore contracting operational activities Utilization Rate Number of JUBs.\nADNOC Classification: Public\nADNOC Classification: Public\n10\nOffshore Services: Number of Vessels & Utilization\nOffshore Projects: EPC1 Contract Update\n1 Engineering, Procurement and Construction \nG-Island Project Completion Rate\nHail & Ghasha\nEPC G-Island \nConstruction Project\nDelivery of non-self \npropelled \naccommodation \nbarge and three \ndynamic positioning \noffshore vessels\nProjects Progress & Asset Additions\nAccelerated Drilling \n& Logistics activities \nduring 2024\nProject $975m \nscheduled for \ncompletion in \n2025\nKey Highlights\n▪Update on EPC project\n▪Slower than expected construction of G-Island completed 54.2% by YE \n2024. Project targeted to be 100% completed within 2025\n▪Achievements:\n▪Jebel Dhanna Channel Enhancement Project completed 60 days ahead of \nschedule\n▪90% completed - EPC Mooring Systems H&G – subcontractor to NPCC-\nSAIPEM JV\n▪49.3% Progress  - EPC BU Haseer Surface facilities – Al Yasat Petroleum\n▪90% completed - 4 Nos Pedestal Cranes Replacement  at LZ and US – \nADNOC Offshore\n10.0%\nFY 23\n54.2%\nFY 24\n100%\nFY 25\nNumber of Vessels \n66\n68\n+3%\nUtilization Rate\nFY 23\nFY 24\n94%\n94%\nFY 24\nFY 23\nIntegrated Logistics: Offshore Services & Projects\nContinue to deliver growth across key activities\nADNOC Classification: Public ADNOC Classification: Public Offshore Services: Number of Vessels & Utilization Offshore Projects: EPC1 Contract Update 1 Engineering, Procurement and Construction G-Island Project Completion Rate Hail & Ghasha EPC G-Island Construction Project Delivery of non-self propelled accommodation barge and three dynamic positioning offshore vessels.\nProjects Progress & Asset Additions Accelerated Drilling & Logistics activities during 2024 Project $975m scheduled for completion in 2025 Key Highlights ▪Update on EPC project ▪Slower than expected construction of G-Island completed 54.2% by YE 2024. Project targeted to be 100% completed within 2025 ▪Achievements: ▪Jebel Dhanna Channel Enhancement Project completed 60 days ahead of schedule ▪90% completed - EPC Mooring Systems H&G – subcontractor to NPCC-SAIPEM JV ▪49.3% Progress - EPC BU Haseer Surface facilities – Al Yasat Petroleum ▪90% completed - 4 Nos Pedestal Cranes Replacement at LZ and US – ADNOC Offshore.\n10.0% FY 23 54.2% FY 24 100% FY 25 Number of Vessels 66 68 +3% Utilization Rate FY 23 FY 24 94% 94% FY 24 FY 23 Integrated Logistics: Offshore Services & Projects Continue to deliver growth across key activities.",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 674,
+      "page": 8
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n11\nRevenue (US$ Million)\nEBITDA (US$ Million)\nNet Profit (US$ Million)\nHighlights\n▪\nRevenues increased by 14% YoY as revenues for Tankers and Dry \nBulk & Container were up 27% and 11% YoY respectively, due to \nincreased ton-mile demand and supportive supply fundamentals due \nto ongoing conflicts. Additional revenue from four new VLCC vessels \nacquired in 2023 also boosted revenues\n▪\nEBITDA delivered solid growth up 24% YoY to US$396 million along \nwith EBITDA margin expansion of 300bps to 41%. Higher TCE rates \nacross Tanker and Dry Bulk vessels more than offset weaker Gas \nCarrier TCE rates\n▪\nNet Profit increased 12% to US$270 million\nUS$m\nFY 23\nFY 24\nYoY %\nTankers\n407\n517\n+27%\nGas Carriers\n174\n153\n-12%\nDry Bulk & Container\n258\n287\n+11%\nTOTAL\n839\n956\n+14%\nUS$m\nFY 23\nFY 24\nYoY %\nTankers\n159\n240\n+51%\nGas Carriers\n101\n87\n-14%\nDry Bulk & Container\n60\n69\n+15%\nTOTAL\n321\n396\n+24%\nMargin %\n38\n41\n+3pp\nUS$m\nFY 23\nFY 24\nYoY %\nTankers\n118\n172\n+46%\nGas Carriers\n73\n47\n-36%\nDry Bulk & Container\n49\n51\n+4%\nTOTAL\n240\n270\n+12%\nMargin %\n29\n28\n-1pp\nShipping - Financials\nRobust charter rates in Tankers and Dry Bulk, coupled with expansion of our VLCC fleet",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4",
+      "doc_0_sections_5"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 220,
+      "page": 10
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "ADNOC Classification: Public ADNOC Classification: Public 11 Revenue (US$ Million) EBITDA (US$ Million) Net Profit (US$ Million)",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Document Header and Key Metrics",
+      "word_count": 16,
+      "reasoning": "This chunk introduces the document classification and key financial metrics, serving as a header for the content that follows.",
+      "parsing_method": "json_success",
+      "page": 10
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Highlights ▪ Revenues increased by 14% YoY as revenues for Tankers and Dry Bulk & Container were up 27% and 11% YoY respectively, due to increased ton-mile demand and supportive supply fundamentals due to ongoing conflicts. Additional revenue from four new VLCC vessels acquired in 2023 also boosted revenues ▪ EBITDA delivered solid growth up 24% YoY to US$396 million along with EBITDA margin expansion of 300bps to 41%. Higher TCE rates across Tanker and Dry Bulk vessels more than offset weaker Gas Carrier TCE rates ▪ Net Profit increased 12% to US$270 million\nUS$m FY 23 FY 24 YoY % Tankers 407 517 +27% Gas Carriers 174 153 -12% Dry Bulk & Container 258 287 +11% TOTAL 839 956 +14%\nUS$m FY 23 FY 24 YoY % Tankers 159 240 +51% Gas Carriers 101 87 -14% Dry Bulk & Container 60 69 +15% TOTAL 321 396 +24% Margin % 38 41 +3pp\nUS$m FY 23 FY 24 YoY % Tankers 118 172 +46% Gas Carriers 73 47 -36% Dry Bulk & Container 49 51 +4% TOTAL 240 270 +12% Margin % 29 28 -1pp",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Financial Highlights Overview",
+      "word_count": 185,
+      "reasoning": "This chunk summarizes the key financial highlights, including revenue, EBITDA, and net profit growth, providing a high-level overview of performance.",
+      "parsing_method": "json_success",
+      "page": 10
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Shipping - Financials Robust charter rates in Tankers and Dry Bulk, coupled with expansion of our VLCC fleet",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Shipping Financials Summary",
+      "word_count": 20,
+      "reasoning": "This chunk provides a concise summary of the shipping financials, emphasizing robust charter rates and fleet expansion as key drivers.",
+      "parsing_method": "json_success",
+      "page": 10
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n38,100\n43,047\n11,088\n15,091\n42,996\n35,327\n12\nShipping: Operational Highlights\n▪Continued fleet expansion and strong utilization \nrates\n▪Robust performance driven by favorable supply \nand demand balance \n▪Chartered-in fleet predominately for Dry Bulk \nshipping activities as ADNOC moved to 100% \nCFR3 sales for sulphur exports which has \nfurther increased vessel demand\nUtilization Rate\n▪Time charter equivalent earnings for Tankers \nand Dry Bulk increased significantly, driven by \nongoing conflicts benefitting ton-mile demand \nand supply fundamentals \nNumber of Vessels1\nNumber of Chartered-in Vessels\nTime Charter Equivalent (US$)4\n1 Number of owned deep-sea vessels. Gas Carriers: Including VLGCs owned by AW Shipping Limited.  2 Six LNG carriers which were scheduled for delivery between 2025 and 2026, with one vessel early delivery Nov 2024. 3Cost & Freight\n4 Time Charter Equivalent earnings related to owned vessels\n141\n131\nFY 23\nFY 24\nNo. of Vessels\n50\n52\n62\n52\nFY 23\nFY 24\n56\n57\nFY 23\nFY 24\n>99%\n>99%\nFY 23\nFY 24\nFY 23\nFY 24\nFY 23\nFY 24\nGas Carriers\nTankers\nDry Bulk\n4,817\n5,043\nFY 23\nFY 24\nNumber of Owned \nVessels \nNo. of Chartered-in\n Days\n-7%\n+5%\n-18%\n+13%\n+36%\n+2%\nSix LNGCs Ordered.\nOne Delivered FY24\nNo. of Vessels\n in Operation\nContinue to deliver strong revenue growth",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 216,
+      "page": 11
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "ADNOC Classification: Public ADNOC Classification: Public 38,100 43,047 11,088 15,091 42,996 35,327 12",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Document Header and Initial Figures",
+      "word_count": 15,
+      "reasoning": "This chunk includes the document classification and initial numerical data, which appears to set the stage for the rest of the content.",
+      "parsing_method": "json_success",
+      "page": 11
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Shipping: Operational Highlights ▪Continued fleet expansion and strong utilization rates ▪Robust performance driven by favorable supply and demand balance ▪Chartered-in fleet predominately for Dry Bulk shipping activities as ADNOC moved to 100% CFR3 sales for sulphur exports which has further increased vessel demand",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Shipping Operational Highlights",
+      "word_count": 63,
+      "reasoning": "This chunk focuses on operational highlights for shipping, including fleet expansion, utilization rates, and changes in sulphur export strategies.",
+      "parsing_method": "json_success",
+      "page": 11
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Utilization Rate ▪Time charter equivalent earnings for Tankers and Dry Bulk increased significantly, driven by ongoing conflicts benefitting ton-mile demand and supply fundamentals Number of Vessels1 Number of Chartered-in Vessels Time Charter Equivalent (US$)4",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Utilization Rates and Earnings",
+      "word_count": 47,
+      "reasoning": "This chunk discusses utilization rates and earnings, highlighting the impact of market conditions on tanker and dry bulk performance.",
+      "parsing_method": "json_success",
+      "page": 11
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "1 Number of owned deep-sea vessels. Gas Carriers: Including VLGCs owned by AW Shipping Limited. 2 Six LNG carriers which were scheduled for delivery between 2025 and 2026, with one vessel early delivery Nov 2024. 3Cost & Freight 4 Time Charter Equivalent earnings related to owned vessels\n141 131 FY 23 FY 24 No. of Vessels 50 52 62 52 FY 23 FY 24 56 57 FY 23 FY 24 >99% >99% FY 23 FY 24 FY 23 FY 24 FY 23 FY 24 Gas Carriers Tankers Dry Bulk 4,817 5,043 FY 23 FY 24 Number of Owned Vessels No. of Chartered-in Days -7% +5% -18% +13% +36% +2% Six LNGCs Ordered. One Delivered FY24 No. of Vessels in Operation Continue to deliver strong revenue growth",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Explanatory Notes on Vessel Data",
+      "word_count": 126,
+      "reasoning": "This chunk provides explanatory notes and definitions related to vessel data, clarifying terms and figures mentioned earlier.",
+      "parsing_method": "json_success",
+      "page": 11
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\nOrderbook as % \nof existing fleet\nAverage \nAge\n% of Fleet 15-\n19 Years\n% of Fleet 20+ \nyears\nMR (25,000 – 39,999 \ndwt)\n17%\n13\n30%\n14%\nLR1 (40,000 – 54,999 \ndwt)\n17%\n15\n46%\n14%\nLR2 (85,000 – \n124,999 dwt)\n39%\n11\n24%\n7%\nAframax (85,000 – \n124,999 dwt)\n7%\n14\n31%\n22%\nSuezmax (125,000 – \n199,999 dwt)\n16%\n13\n20%\n16%\nVL/ULCC (200,000 – \n320,000+ dwt)\n9%\n13\n18%\n17%\n13\nOutlook\nSource: Clarksons Research, data as of January 2025\n▪Supportive long-term tanker vessel demand and supply fundamentals \nunderpinned by increased ton-mile demand, limited newbuild vessel deliveries \nand an increasing number of scrapping candidates (vessels 20+ years)\n▪12% of crude tanker fleet capacity is now under sanction \n▪Dry bulk market is expected to face a softer year in 2025, with moderate \ndemand growth and fleet growth projected at around 3% year-on-year, while \nChinese dry bulk imports are not anticipated to repeat the robust growth seen \nin previous years\n▪Positive on long-term LNG demand and supply fundamentals due to \nliquefaction capacity currently under construction and scheduled to come \noperational in next six years\n0\n100,000\n200,000\n300,000\n400,000\n500,000\n600,000\nDec-10\nJan-12\nFeb-13\nMar-14\nApr-15\nMay-16\nJun-17\nJul-18\nAug-19\nSep-20\nOct-21\nNov-22\nDec-23\nJan-25\nLNG 145K Steams $/day\nLNG 160K DFDEs $/day\nLNG 174K MEGI/XDFs $/day\nLNG Carrier TCE Rates (US$/day)\nDry Bulk TCE Rates (US$/day)\nTanker TCE Rates (US$/day)\n0\n10,000\n20,000\n30,000\n40,000\nJan-20\nJan-21\nJan-22\nJan-23\nJan-24\nJan-25\nSupramax c. 2010-built\nUltramax c. 2015-built (Eco)\nUS$/day\nUS$/day\nUS$/day\nSource: Clarksons Research, data as of end January 2025\n-50,000\n0\n50,000\n100,000\n150,000\n200,000\n250,000\n300,000\n350,000\nJan-00\nJan-05\nJan-10\nJan-15\nJan-20\nJan-25\nMR Clean Products\nVLCC\nShipping: Benchmark TCE rates & Outlook\nADNOC Classification: Public ADNOC Classification: Public Orderbook as % of existing fleet Average Age % of Fleet 15-19 Years % of Fleet 20+ years MR (25,000 – 39,999 dwt) 17% 13 30% 14% LR1 (40,000 – 54,999 dwt) 17% 15 46% 14% LR2 (85,000 – 124,999 dwt) 39% 11 24% 7% Aframax (85,000 – 124,999 dwt) 7% 14 31% 22% Suezmax (125,000 – 199,999 dwt) 16% 13 20% 16% VL/ULCC (200,000 – 320,000+ dwt) 9% 13 18% 17%\nOutlook Source: Clarksons Research, data as of January 2025 ▪Supportive long-term tanker vessel demand and supply fundamentals underpinned by increased ton-mile demand, limited newbuild vessel deliveries and an increasing number of scrapping candidates (vessels 20+ years) ▪12% of crude tanker fleet capacity is now under sanction ▪Dry bulk market is expected to face a softer year in 2025, with moderate demand growth and fleet growth projected at around 3% year-on-year, while Chinese dry bulk imports are not anticipated to repeat the robust growth seen in previous years ▪Positive on long-term LNG demand and supply fundamentals due to liquefaction capacity currently under construction and scheduled to come operational in next six years\nSupportive long-term tanker vessel demand and supply fundamentals underpinned by increased ton-mile demand, limited newbuild vessel deliveries and an increasing number of scrapping candidates (vessels 20+ years).",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 509,
+      "page": 12
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "12% of crude tanker fleet capacity is now under sanction.",
+    "strategy": "hierarchical_level_2",
+    "level": 2,
+    "parent_id": "doc_0_sections_1",
+    "children_ids": [],
+    "metadata": {
+      "type": "subsections",
+      "title": "Crude Tanker Fleet Sanctions",
+      "word_count": 9,
+      "reasoning": "This chunk addresses a specific statistic about crude tanker fleet sanctions, which is distinct from the broader tanker vessel trends.",
+      "parsing_method": "json_success",
+      "page": 12
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Dry bulk market is expected to face a softer year in 2025, with moderate demand growth and fleet growth projected at around 3% year-on-year, while Chinese dry bulk imports are not anticipated to repeat the robust growth seen in previous years.",
+    "strategy": "hierarchical_level_2",
+    "level": 2,
+    "parent_id": "doc_0_sections_1",
+    "children_ids": [],
+    "metadata": {
+      "type": "subsections",
+      "title": "Dry Bulk Market Outlook for 2025",
+      "word_count": 44,
+      "reasoning": "This chunk discusses the 2025 outlook for the dry bulk market, focusing on demand, fleet growth, and Chinese import trends.",
+      "parsing_method": "json_success",
+      "page": 12
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Positive on long-term LNG demand and supply fundamentals due to liquefaction capacity currently under construction and scheduled to come operational in next six years.",
+    "strategy": "hierarchical_level_2",
+    "level": 2,
+    "parent_id": "doc_0_sections_1",
+    "children_ids": [],
+    "metadata": {
+      "type": "subsections",
+      "title": "LNG Demand and Supply Fundamentals",
+      "word_count": 25,
+      "reasoning": "This chunk highlights the long-term LNG market outlook, emphasizing liquefaction capacity under construction and its timeline.",
+      "parsing_method": "json_success",
+      "page": 12
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "0 100,000 200,000 300,000 400,000 500,000 600,000 Dec-10 Jan-12 Feb-13 Mar-14 Apr-15 May-16 Jun-17 Jul-18 Aug-19 Sep-20 Oct-21 Nov-22 Dec-23 Jan-25 LNG 145K Steams $/day LNG 160K DFDEs $/day LNG 174K MEGI/XDFs $/day LNG Carrier TCE Rates (US$/day) Dry Bulk TCE Rates (US$/day) Tanker TCE Rates (US$/day\n0 10,000 20,000 30,000 40,000 Jan-20 Jan-21 Jan-22 Jan-23 Jan-24 Jan-25 Supramax c. 2010-built Ultramax c. 2015-built (Eco) US$/day US$/day US$/day Source: Clarksons Research, data as of end January 2025 -50,000 0 50,000 100,000 150,000 200,000 250,000 300,000 350,000 Jan-00 Jan-05 Jan-10 Jan-15 Jan-20 Jan-25 MR Clean Products VLCC Shipping: Benchmark TCE rates & Outlook",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "LNG and TCE Rate Trends",
+      "word_count": 102,
+      "reasoning": "This chunk focuses on LNG carrier TCE rates and trends over time, providing a clear snapshot of rate movements across different vessel types.",
+      "parsing_method": "json_success",
+      "page": 12
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n~100%\n~100%\nNon-contracted \n~17%\n~83%\n~52%\n~48%\n14\nIntegrated Logistics\nShipping\nServices\n2030++\n% of Revenue Under Long-term Contracts\n$2.3 bn\nSegment\nContracted \n2025\n$1.9 bn\n2026-29\n$4.6 bn\n>41%\ncontracted \nrevenue*\n>57%\ncontracted \nrevenue*\n2025\n2026-2029\n2025\n2026-2029\nIntegrated Logistics : Mainly consists of \n•\nOffshore contracting : Material Handling contract, Jack up \nbarges, H&G, property leasing & ATN \n•\nOffshore Services – various vessel such as DPII, PSVs, \nFerry Boats\n•\nOffshore projects – various EPC projects such as G-Island\n$11.0 bn*\n$144 m\n$1.7 bn*\nShipping: Mainly consists of long-term contracts for \nGas Carriers as Dry Bulk, Containers and Tankers are \nmostly generating revenue at spot rates  \n \n$3.3 bn\n$300 m\n$1.4 bn\nServices: Mainly consist of long-term service contracts  \nof Ruwais packaging, gateway operations at Khalifa and \nKizad, OSRC contract with ADNOC and contracted \nDiving Services\n* 50% Of AWS contracted revenue included in revenue numbers. Shipping 2025 Pie Chart includes Navig8 Revenue, Excl. Navig8 it will be 12% contracted revenue for Existing Fleet. Navig8 Commercial Pooling & Technical Management & Agency not included in Services.\n~87%\n~13%\n~7%\n~93%\nADNOC L&S Total Contracted Revenue\nAnchored by long-term contracts\nADNOC Classification: Public ADNOC Classification: Public ~100% ~100% Non-contracted ~17% ~83% ~52% ~48% 14 Integrated Logistics Shipping Services 2030++ % of Revenue Under Long-term Contracts $2.3 bn Segment Contracted 2025 $1.9 bn 2026-29 $4.6 bn >41% contracted revenue* >57% contracted revenue* 2025 2026-2029 2025 2026-2029",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 244,
+      "page": 13
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Integrated Logistics: Mainly consists of Offshore contracting: Material Handling contract, Jack up barges, H&G, property leasing & ATN Offshore Services – various vessel such as DPII, PSVs, Ferry Boats Offshore projects – various EPC projects such as G-Island $11.0 bn* $144 m $1.7 bn*",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Integrated Logistics Details",
+      "word_count": 50,
+      "reasoning": "This chunk focuses on the Integrated Logistics segment, detailing its components and associated revenue figures, maintaining semantic coherence.",
+      "parsing_method": "json_success",
+      "page": 13
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Shipping: Mainly consists of long-term contracts for Gas Carriers as Dry Bulk, Containers and Tankers are mostly generating revenue at spot rates $3.3 bn $300 m $1.4 bn",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Shipping Segment Overview",
+      "word_count": 35,
+      "reasoning": "This chunk provides a concise overview of the Shipping segment, highlighting its reliance on long-term contracts and spot rate revenue generation.",
+      "parsing_method": "json_success",
+      "page": 13
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Services: Mainly consist of long-term service contracts of Ruwais packaging, gateway operations at Khalifa and Kizad, OSRC contract with ADNOC and contracted Diving Services * 50% Of AWS contracted revenue included in revenue numbers. Shipping 2025 Pie Chart includes Navig8 Revenue, Excl. Navig8 it will be 12% contracted revenue for Existing Fleet. Navig8 Commercial Pooling & Technical Management & Agency not included in Services.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Services Segment and AWS Revenue",
+      "word_count": 75,
+      "reasoning": "This chunk elaborates on the Services segment and includes additional details about AWS contracted revenue and Navig8-related exclusions, ensuring logical flow.",
+      "parsing_method": "json_success",
+      "page": 13
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "~87% ~13% ~7% ~93% ADNOC L&S Total Contracted Revenue Anchored by long-term contracts",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Total Contracted Revenue Summary",
+      "word_count": 20,
+      "reasoning": "This chunk summarizes the total contracted revenue percentages and emphasizes the reliance on long-term contracts, concluding the document's financial focus.",
+      "parsing_method": "json_success",
+      "page": 13
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n15\nIntegrated \nLogistics\nServices\nShipping\nOffshore Projects\nEPC Projects completion of \nG- Island, Bu Haseer and LNG \nBerth Upgrade in 2025\nOffshore Services\nOffshore Contracting\nIncludes DPII & ZMI conventional boats \n& OSVs with 1-2 year contracts. \nNon ILSP: short term contracts ranging \nbetween 2-3 years \nILSP contracts up to 2032, Hail & \nGhasha up to 2030 and ZMI JUB \ncontracts up to five years\nILSP Diesel sale contract until 2032 \nTankers\nNon-contracted, spot exposure\nDry Bulk\nHigh proportion chartered with \nspot exposure\nGas Carriers\nContracted mid-2026 until \n2033-2048       \nPetroleum Port operations\nOil spill and HNS \nresponse services\nOnshore services\n100% Contracted \nContracted until 2046\nContracted until 2045\nContracted until 2032-2041\nADNOC L&S Operations\nContracted vs Non-contracted operations across all three business segments\nNote: Navig8 Commercial Pools, Technical Management & Agency and Bunkering from 2025 part of Services.\nADNOC Classification: Public ADNOC Classification: Public 15 Integrated Logistics Services Shipping Offshore Projects EPC Projects completion of G- Island, Bu Haseer and LNG Berth Upgrade in 2025\nOffshore Services Offshore Contracting Includes DPII & ZMI conventional boats & OSVs with 1-2 year contracts. Non ILSP: short term contracts ranging between 2-3 years ILSP contracts up to 2032, Hail & Ghasha up to 2030 and ZMI JUB contracts up to five years ILSP Diesel sale contract until 2032",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 221,
+      "page": 14
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Tankers Non-contracted, spot exposure Dry Bulk High proportion chartered with spot exposure Gas Carriers Contracted mid-2026 until 2033-2048",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Shipping and Vessel Operations",
+      "word_count": 27,
+      "reasoning": "This chunk discusses shipping operations, including tankers, dry bulk, and gas carriers, grouped logically by vessel type and contract status.",
+      "parsing_method": "json_success",
+      "page": 14
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "Petroleum Port operations Oil spill and HNS response services Onshore services 100% Contracted Contracted until 2046 Contracted until 2045 Contracted until 2032-2041",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Port and Onshore Services",
+      "word_count": 33,
+      "reasoning": "This chunk covers petroleum port operations, oil spill response, and onshore services, logically grouped by service type and contract timelines.",
+      "parsing_method": "json_success",
+      "page": 14
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "ADNOC L&S Operations Contracted vs Non-contracted operations across all three business segments Note: Navig8 Commercial Pools, Technical Management & Agency and Bunkering from 2025 part of Services.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "ADNOC L&S Operations Overview",
+      "word_count": 36,
+      "reasoning": "This chunk provides an overview of ADNOC L&S operations, highlighting contracted vs non-contracted activities and future service expansions.",
+      "parsing_method": "json_success",
+      "page": 14
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n16\n2028\nContracted Revenue: Timeline of Confirmed Contract Years\n2025\n2026\n2027\n2029\n24%\n76%\n26%\n74%\n26%\n74%\n24%\n76%\n22%\n78%\nNote: Spot exposure including Navig8 1 VLGC & VLEC JV AW Shipping\n2025\n2026\n2027\n2028\n2029\n2030\n2031\n2032\n2033\n2034\n2035\n2036\n2037\n2038\n2039\n2040\n2041\n2042\n2043\n2044\n2045\n2046\n2047\n2048\nNo. of Contracted \nVessels\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n8\n5\n5\n5\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n6\n5\n1\n1\n2\n8\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n9\n8\n7\n8 LNGC\n6 LNGC\n6 VLGC (AWS)1\n9 VLEC (AWS)1\nSpot shipping exposure revenue\nOther Revenue\nSpot\nContracted\n6 5\nNo. of Vessels in \nFleet\nShipping Revenue Analysis \nSpot shipping rate exposure represents less than 27% of ADNOC L&S’s Total Revenue\nADNOC Classification: Public ADNOC Classification: Public 16 2028 Contracted Revenue: Timeline of Confirmed Contract Years 2025 2026 2027 2029 24% 76% 26% 74% 26% 74% 24% 76% 22% 78%",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 208,
+      "page": 15
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Note: Spot exposure including Navig8 1 VLGC & VLEC JV AW Shipping 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 2045 2046 2047 2048",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Spot Exposure and Contract Years",
+      "word_count": 50,
+      "reasoning": "This chunk highlights spot exposure details and lists the timeline of contract years, maintaining logical flow.",
+      "parsing_method": "json_success",
+      "page": 15
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "No. of Contracted Vessels 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 5 1 1 2",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Number of Contracted Vessels",
+      "word_count": 50,
+      "reasoning": "This chunk focuses on the number of contracted vessels across different years, providing a clear breakdown.",
+      "parsing_method": "json_success",
+      "page": 15
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 8 7 8 LNGC 6 LNGC 6 VLGC (AWS)1 9 VLEC (AWS)1 Spot shipping exposure revenue Other Revenue Spot Contracted",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Fleet Composition and Revenue Categories",
+      "word_count": 50,
+      "reasoning": "This chunk details fleet composition and differentiates between spot and contracted revenue categories.",
+      "parsing_method": "json_success",
+      "page": 15
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "6 5 No. of Vessels in Fleet Shipping Revenue Analysis Spot shipping rate exposure represents less than 27% of ADNOC L&S’s Total Revenue",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Shipping Revenue Analysis",
+      "word_count": 50,
+      "reasoning": "This chunk concludes with an analysis of shipping revenue, emphasizing spot rate exposure as a percentage of total revenue.",
+      "parsing_method": "json_success",
+      "page": 15
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\nServices\nFinancials (US$ Million)\nOutlook\n▪Consistent performance under long-term contracts, complemented by new \ngrowth opportunities\n▪Revenues increased by 10% YoY to US$312 million due to higher volumes \nin petroleum port operations and onshore terminal operations. Revenue also \nsupported by execution of Marine Terminal Operations contract with ADNOC \nOffshore effective from 1 Jan 2024\n▪EBITDA up by 26% due to one-off other income for liquidated damage due \nto delay in vessel construction. Net income accordingly up by 43% to US$26 \nmillion\n17\nUS$m\nFY 23\nFY 24\nYoY %\nRevenue\n284\n312\n+10%\nEBITDA\n44\n56\n+26%\nEBITDA Margin %\n16\n18\n+2pp\nNet Profit\n18\n26\n+43%\nNet Profit Margin %\n6\n8\n+2pp\nEBITDA and Net Profit growth driven by increased volumes in petroleum ports and onshore terminal operations\nADNOC Classification: Public\nADNOC Classification: Public\nServices\nFinancials (US$ Million)\nOutlook\n▪Consistent performance under long-term contracts, complemented by new growth opportunities\n▪Revenues increased by 10% YoY to US$312 million due to higher volumes in petroleum port operations and onshore terminal operations. Revenue also supported by execution of Marine Terminal Operations contract with ADNOC Offshore effective from 1 Jan 2024\n▪EBITDA up by 26% due to one-off other income for liquidated damage due to delay in vessel construction. Net income accordingly up by 43% to US$26 million\n17\nUS$m\nFY 23\nFY 24\nYoY %\nRevenue\n284\n312\n+10%\nEBITDA\n44\n56\n+26%\nEBITDA Margin %\n16\n18\n+2pp\nNet Profit\n18\n26\n+43%\nNet Profit Margin %\n6\n8\n+2pp\nEBITDA and Net Profit growth driven by increased volumes in petroleum ports and onshore terminal operations",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 272,
+      "page": 16
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n1,149\n-80\n-73\n996\n185\n-811\nEBITDA\nWC\nIncome Tax\nOFCF\nCAPEX\nFCF\nCash Flow Profile\n18\nFree Cash Flow Evolution (US$M)\nNet Debt (US$M)                                Net Debt / EBITDA (X)\nCASH FLOW\n▪Strong free cash flow driven by strong growth in core \nbusinesses and profitability\n▪Value accretive investments continued to be \nprimarily funded through free cash flows and ADNOC \ngroup loan, leaving considerable debt financing \ncapacity\nNET DEBT\n▪Continuous strong financial position with a net debt \nto EBITDA ratio of 0.47x.\n▪High flexibility and capacity to finance value accretive \ngrowth opportunities at efficient cost of debt\nOTHERS\n▪Effective tax rate (ETR) reduced to <1% on \ninternational shipping from November 2024\n▪ADNOC L&S effective tax rate (ETR) therefore \nprojected to decrease to 6% from 9% in 2025\n▪HCI financing costs are paid out of subsidiary \nretained earnings hence no P&L impact\nCommentary\n190\n189\n100\n550\n-216\n-199\nFY 23\nFY 24\nCash\nBorrowing\nLeases\n1 Operating Free Cash Flow. 2 Free Cash Flow\n1\n2\n74\n540\n0.08\n0.47\nFY 23\nFY 24\nContinued strong free cash flows boost financial strength for future expansion\nADNOC Classification: Public ADNOC Classification: Public 1,149 -80 -73 996 185 -811 EBITDA WC Income Tax OFCF CAPEX FCF Cash Flow Profile 18 Free Cash Flow Evolution (US$M) Net Debt (US$M) Net Debt / EBITDA (X)\nCASH FLOW ▪Strong free cash flow driven by strong growth in core businesses and profitability ▪Value accretive investments continued to be primarily funded through free cash flows and ADNOC group loan, leaving considerable debt financing capacity",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 262,
+      "page": 17
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "NET DEBT ▪Continuous strong financial position with a net debt to EBITDA ratio of 0.47x. ▪High flexibility and capacity to finance value accretive growth opportunities at efficient cost of debt",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Net Debt and Financial Position",
+      "word_count": 50,
+      "reasoning": "This chunk discusses the company's net debt and financial flexibility, logically following the cash flow section.",
+      "parsing_method": "json_success",
+      "page": 17
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "OTHERS ▪Effective tax rate (ETR) reduced to <1% on international shipping from November 2024 ▪ADNOC L&S effective tax rate (ETR) therefore projected to decrease to 6% from 9% in 2025 ▪HCI financing costs are paid out of subsidiary retained earnings hence no P&L impact",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Tax and Financing Details",
+      "word_count": 50,
+      "reasoning": "This chunk provides details on tax rates and financing costs, which are distinct from the cash flow and debt discussions.",
+      "parsing_method": "json_success",
+      "page": 17
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Commentary 190 189 100 550 -216 -199 FY 23 FY 24 Cash Borrowing Leases 1 Operating Free Cash Flow. 2 Free Cash Flow 1 2 74 540 0.08 0.47 FY 23 FY 24 Continued strong free cash flows boost financial strength for future expansion",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Commentary and Future Outlook",
+      "word_count": 50,
+      "reasoning": "This chunk summarizes the commentary and outlook, tying together the financial metrics and future projections.",
+      "parsing_method": "json_success",
+      "page": 17
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n19\nCase Studies\n1Annual efficiency ratio (gCO2/dwt.nm)\nADNOC L&S Shipping Fleet Carbon Intensity (AER1)\nDual fuel vessels\n4 - 6%\nTCO2 Reduction\nFleet Modernization\n6 - 7%\nTCO22 Reduction\nAir Lubricating System\n5 - 10%\nTCO2 Reduction and\nnet fuel burn\nFSRU Redeployment\n10 - 12%\nTCO2 Reduction\nAlternative fuel \n15 - 18%\nTCO2 Reduction\nBiofuel4\n8 - 12%\nTCO2 Reduction\nPotential Abatement projects in our shipping segment 2024-2050\nTechnical assessment & opportunities\nAdvancing Digital Decarbonization\n▪\nS-Insight from StormGeo. Now applied across full \nfleet of ocean-going vessels. Voyage optimization \nand weather routing to reduce fuel consumption \nand emissions\n▪\nOPSEALOG for ILSP OSV fleet. Leveraging \ndigitalization and data management to optimize \nfleet operations\n▪\nAI-enabled ILMS. Vessel planning with optimal route \noptions, pro-active data driven decision support, \nreducing fuel consumption and emissions\n▪\nMarineM for Marine Services. Optimizing Petroleum \nPort Operations through just-in-time functionality, \npotential to reduce emissions by 20% from in-port \nharbor crafts and streamlining pilot logistics\n[% per vessel ] \n2020 Baseline\n100% Electric Sea Glider\n▪\nFully electric marine glider for crew-transport\nto ADNOC Offshore islands\n▪\nHigh-speed and zero-emissions, with 70% \nreduction in transportation time compared to \nexisting ferry transports\n▪\nCurrently one sea glider deployed by ADNOC for \npilot study\nSustainability Strategy\nSustainability abatement opportunities 2024-2050 and case studies\n11.73\n7.58\n5.37\n5.16\n4.48\n4.30\n3.97\n3.67\n2.83\n2.89\n2.70\n0.00\n2.00\n4.00\n6.00\n8.00\n10.00\n12.00\n14.00\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n2030\nLNGCs + DF Vessels + Fleet Modernization Initiatives\nADNOC Classification: Public ADNOC Classification: Public 19 Case Studies 1Annual efficiency ratio (gCO2/dwt.nm) ADNOC L&S Shipping Fleet Carbon Intensity (AER1) Dual fuel vessels 4 - 6% TCO2 Reduction Fleet Modernization 6 - 7% TCO22 Reduction Air Lubricating System 5 - 10% TCO2 Reduction and net fuel burn FSRU Redeployment 10 - 12% TCO2 Reduction Alternative fuel 15 - 18% TCO2 Reduction Biofuel4 8 - 12% TCO2 Reduction\nPotential Abatement projects in our shipping segment 2024-2050 Technical assessment & opportunities Advancing Digital Decarbonization ▪ S-Insight from StormGeo. Now applied across full fleet of ocean-going vessels. Voyage optimization and weather routing to reduce fuel consumption and emissions ▪ OPSEALOG for ILSP OSV fleet. Leveraging digitalization and data management to optimize fleet operations ▪ AI-enabled ILMS. Vessel planning with optimal route options, pro-active data driven decision support, reducing fuel consumption and emissions ▪ MarineM for Marine Services. Optimizing Petroleum Port Operations through just-in-time functionality, potential to reduce emissions by 20% from in-port harbor crafts and streamlining pilot logistics\n[% per vessel ] 2020 Baseline 100% Electric Sea Glider ▪ Fully electric marine glider for crew-transport to ADNOC Offshore islands ▪ High-speed and zero-emissions, with 70% reduction in transportation time compared to existing ferry transports ▪ Currently one sea glider deployed by ADNOC for pilot study Sustainability Strategy Sustainability abatement opportunities 2024-2050 and case studies 11.73 7.58 5.37 5.16 4.48 4.30 3.97 3.67 2.83 2.89 2.70 0.00 2.00 4.00 6.00 8.00 10.00 12.00 14.00 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 LNGCs + DF Vessels + Fleet Modernization Initiatives",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 518,
+      "page": 18
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n1,384\n737\n607\n875\n1,294\n2024\n2025\n2026\n2027\n2028\n450\nCAPEX and Funding Sources\n20\nUS$ M\n20243\n2025\n2026\n2027\n2028\nCAPEX \n1,384\n1,737\n607\n1,325\n1,294\nHCI\n1,300\n2,000\n2,000\n2,000\nOff-BS Debt\n251\n436\n854\n929\n▪For investment plans, ADNOC L&S targets low double digit unlevered IRRs. \nMeanwhile, for long-term contracts the target is high single digit IRRs \n▪At least US$ 3bn+ are anticipated to be additionally mobilized to new value \naccretive growth projects which are not yet factored into ADNOC L&S’s \nP&L projections\n▪Despite robust investment plans, ADNOC L&S’s financial position offers \nadequate financing capacity to deliver its investment plan within targeted \nNet Debt/EBITDA of 2.0x-2.5x.\n▪HCI to result in financial payments deductions from retained earnings with \nno P&L impact\n1 VLEC & VLAC captured at 50% and considered off-balance sheet in AWS JV\n2 FY2024 CAPEX includes 50% AWS investments for VLECs and VLACs plus accrued CAPEX\n3 2024 On-balance sheet debt  USD739 m (including leases)  and in 2025 Navig8’s additional debt amount of approx. $887 million to be consolidated. (Q3 ‘24 amount)\n1,384\n1,862\n885\n548\n218\n1,490\nFY 2024\nR-LNG\nD-LNG\nVLEC\nVLAC\nNavig8\nInorganic\nInvestment \nUS$ 3bn+ of \nincremental  \ninvestments\n1,000\nKey Highlights\nUS$ 5.0bn Organic Investment Committed1 \nand US$ 1.49bn Inorganic Investment\nApprox. US$ 7.0bn CAPEX Evolution\nGrowth Investment Outlook & Funding Plan\nDelivering a transformational growth strategy to benefit all stakeholders\n2\nADNOC Classification: Public ADNOC Classification: Public 1,384 737 607 875 1,294 2024 2025 2026 2027 2028 450 CAPEX and Funding Sources 20 US$ M 20243 2025 2026 2027 2028 CAPEX 1,384 1,737 607 1,325 1,294 HCI 1,300 2,000 2,000 2,000 Off-BS Debt 251 436 854 929\n▪For investment plans, ADNOC L&S targets low double digit unlevered IRRs. Meanwhile, for long-term contracts the target is high single digit IRRs ▪At least US$ 3bn+ are anticipated to be additionally mobilized to new value accretive growth projects which are not yet factored into ADNOC L&S’s P&L projections ▪Despite robust investment plans, ADNOC L&S’s financial position offers adequate financing capacity to deliver its investment plan within targeted Net Debt/EBITDA of 2.0x-2.5x.",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 356,
+      "page": 19
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "▪HCI to result in financial payments deductions from retained earnings with no P&L impact 1 VLEC & VLAC captured at 50% and considered off-balance sheet in AWS JV 2 FY2024 CAPEX includes 50% AWS investments for VLECs and VLACs plus accrued CAPEX 3 2024 On-balance sheet debt USD739 m (including leases) and in 2025 Navig8’s additional debt amount of approx. $887 million to be consolidated. (Q3 ‘24 amount)",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "HCI and Debt Considerations",
+      "word_count": 75,
+      "reasoning": "This chunk discusses HCI impacts, off-balance sheet considerations, and debt projections, forming a logical unit on financial structuring.",
+      "parsing_method": "json_success",
+      "page": 19
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "1,384 1,862 885 548 218 1,490 FY 2024 R-LNG D-LNG VLEC VLAC Navig8 Inorganic Investment US$ 3bn+ of incremental investments 1,000 Key Highlights US$ 5.0bn Organic Investment Committed1 and US$ 1.49bn Inorganic Investment Approx. US$ 7.0bn CAPEX Evolution Growth Investment Outlook & Funding Plan Delivering a transformational growth strategy to benefit all stakeholders",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Growth Strategy and Investment Highlights",
+      "word_count": 75,
+      "reasoning": "This chunk highlights key investment figures, organic and inorganic growth plans, and strategic outlook, ensuring semantic coherence.",
+      "parsing_method": "json_success",
+      "page": 19
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\nIntegrated Logistics\nShipping\nServices\nRevenue Guidance\nOffshore Services\nOffshore Contracting\nOffshore Projects\nGas Carriers\nTankers\n2025: Low single-digit YoY growth\nMT: Low single-digit reduction\nEBITDA Guidance\n2025: High single-digit YoY growth\nMT: Low single-digit growth  \n2025: Mid to high 40%s YoY growth\nMT: High single-digit growth\n2025: Mid to high 20%s YoY growth\nMT: Mid teens growth\n2025: Close to 5x YoY growth\nMT: Remain flat\n2025: Slightly above 100% YoY growth\nMT: Mid to high single-digit growth\nNote: MT = Medium Term 2026-2029 CAGR\nDry-bulk & \nContainers\nSegmental 2025 & Medium-Term Outlook\n2025: Higher material handling volumes, new investments in JUBs & OSVs with high utilization, Hail & Ghasha project acceleration\nMT: Sustainable volume growth enhancing operational efficiency to manage higher volumes effectively with continued high utilization\n2025: Increasing the fleet of both owned and third-party offshore chartered vessels to enhance operational capacity and flexibility\nMT: Expanding the number of managed vessels to improve service offerings and operational efficiency\n2025: Completion of G-Island and other EPC Projects in 2025  \nMT: Continue to enhance EPC capabilities in the marine sector to support maritime logistics projects\n2025: Navig8 acquisition with effect from 8th January 2025 adding 32 tankers\nMT: A weaker start to 2025 tanker rates followed by anticipated market tightening\n2025: Continued softness in LNG rates gradually abates with new products coming online, driven by a high number of vessel \ndeliveries and limited additional liquefaction capacity\nMT: High YoY growth in 2026-29 due to 6x new LNGCs then another 8x LNGCs less 2x aged vessels targeted for disposal\n2025: Vessel demand for Sulphur cargoes in 2025 likely at a slower pace compared to the previous year\nMT: Ton-miles to grow at a healthy pace across all other dry bulk commodity groups supported by new mines and trade inefficiencies\n21\nADNOC Classification: Public Integrated Logistics Shipping Services Revenue Guidance Offshore Services Offshore Contracting Offshore Projects Gas Carriers Tankers",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 323,
+      "page": 20
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "2025: Low single-digit YoY growth MT: Low single-digit reduction EBITDA Guidance 2025: High single-digit YoY growth MT: Low single-digit growth 2025: Mid to high 40%s YoY growth MT: High single-digit growth 2025: Mid to high 20%s YoY growth MT: Mid teens growth 2025: Close to 5x YoY growth MT: Remain flat 2025: Slightly above 100% YoY growth MT: Mid to high single-digit growth Note: MT = Medium Term 2026-2029 CAGR",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Revenue and EBITDA Guidance",
+      "word_count": 78,
+      "reasoning": "This chunk provides detailed revenue and EBITDA growth projections for 2025 and the medium term, grouped logically by metrics.",
+      "parsing_method": "json_success",
+      "page": 20
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Dry-bulk & Containers Segmental 2025 & Medium-Term Outlook 2025: Higher material handling volumes, new investments in JUBs & OSVs with high utilization, Hail & Ghasha project acceleration MT: Sustainable volume growth enhancing operational efficiency to manage higher volumes effectively with continued high utilization 2025: Increasing the fleet of both owned and third-party offshore chartered vessels to enhance operational capacity and flexibility MT: Expanding the number of managed vessels to improve service offerings and operational efficiency",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Dry-bulk and Containers Outlook",
+      "word_count": 91,
+      "reasoning": "This chunk focuses on the outlook for dry-bulk and container operations, including fleet expansion and operational efficiency improvements.",
+      "parsing_method": "json_success",
+      "page": 20
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "2025: Completion of G-Island and other EPC Projects in 2025 MT: Continue to enhance EPC capabilities in the marine sector to support maritime logistics projects 2025: Navig8 acquisition with effect from 8th January 2025 adding 32 tankers MT: A weaker start to 2025 tanker rates followed by anticipated market tightening 2025: Continued softness in LNG rates gradually abates with new products coming online, driven by a high number of vessel deliveries and limited additional liquefaction capacity MT: High YoY growth in 2026-29 due to 6x new LNGCs then another 8x LNGCs less 2x aged vessels targeted for disposal",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "EPC Projects and LNG Outlook",
+      "word_count": 97,
+      "reasoning": "This chunk discusses EPC project completions, tanker acquisitions, and LNG market trends, maintaining thematic coherence around maritime logistics.",
+      "parsing_method": "json_success",
+      "page": 20
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "2025: Vessel demand for Sulphur cargoes in 2025 likely at a slower pace compared to the previous year MT: Ton-miles to grow at a healthy pace across all other dry bulk commodity groups supported by new mines and trade inefficiencies",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Sulphur Cargo and Dry Bulk Trends",
+      "word_count": 38,
+      "reasoning": "This chunk highlights specific trends in Sulphur cargo demand and broader dry bulk commodity growth, concluding the document's outlook.",
+      "parsing_method": "json_success",
+      "page": 20
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n▪\nMedium-term: Target 2.0-2.5x Net Debt to EBITDA\n▪\nProjected average all-in cost of debt finance 6.0%\n▪\nHCI financing costs are paid out of subsidiary retained earnings, hence no P&L \nimpact\nConsolidated Revenue\nConsolidated EBITDA\nConsolidated Net Profit\nFY 2025 Growth1\nCapital Structure\nCAPEX\nOthers\nMid to high 40%s YoY growth\nMedium-term CAGR Growth2\nMedium-term: Projected an additional US$3bn+ by 2029, beyond the projects already \nannounced, achieving the targeted unlevered IRR.\n▪\nEffective tax rate reduced to <1% on international shipping from November 2024\n▪\nADNOC L&S effective tax rate (ETR) therefore projected to decrease to 6% from \n9% in 2025\n▪\nDividends: Targeted annual dividend per share growing by 5% annually from the \n2024 dividend of US$273 million plus PCS distributions\n1Compared to FY2024 actuals which exclude Navig8     2 2026-2029 CAGR\nLow single-digit growth\nHigh teens YoY growth\nHigh single-digit growth\nLow double-digit YoY growth\nHigh single-digit growth\nGroup 2025 and Medium-Term Outlook\n22\nADNOC Classification: Public ▪ Medium-term: Target 2.0-2.5x Net Debt to EBITDA ▪ Projected average all-in cost of debt finance 6.0% ▪ HCI financing costs are paid out of subsidiary retained earnings, hence no P&L impact",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 197,
+      "page": 21
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Consolidated Revenue Consolidated EBITDA Consolidated Net Profit FY 2025 Growth1 Capital Structure CAPEX Others Mid to high 40%s YoY growth Medium-term CAGR Growth2 Medium-term: Projected an additional US$3bn+ by 2029, beyond the projects already announced, achieving the targeted unlevered IRR.",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Revenue, EBITDA, and Growth Projections",
+      "word_count": 47,
+      "reasoning": "This chunk outlines key financial metrics, growth projections, and capital structure, maintaining a logical focus on performance indicators.",
+      "parsing_method": "json_success",
+      "page": 21
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "▪ Effective tax rate reduced to <1% on international shipping from November 2024 ▪ ADNOC L&S effective tax rate (ETR) therefore projected to decrease to 6% from 9% in 2025 ▪ Dividends: Targeted annual dividend per share growing by 5% annually from the 2024 dividend of US$273 million plus PCS distributions",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Tax and Dividend Projections",
+      "word_count": 54,
+      "reasoning": "This chunk focuses on tax rate reductions and dividend growth, providing a clear view of shareholder returns and fiscal strategy.",
+      "parsing_method": "json_success",
+      "page": 21
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "1Compared to FY2024 actuals which exclude Navig8 2 2026-2029 CAGR Low single-digit growth High teens YoY growth High single-digit growth Low double-digit YoY growth High single-digit growth Group 2025 and Medium-Term Outlook",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Growth Comparisons and Medium-Term Outlook",
+      "word_count": 41,
+      "reasoning": "This chunk summarizes growth comparisons and medium-term outlook, maintaining coherence by grouping related performance metrics.",
+      "parsing_method": "json_success",
+      "page": 21
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nADNOC Classification: Public\n23\nSTRONG \nCONTINUED \nEARNINGS \nGROWTH\nSTRONG\nEBITDA \nMARGIN \nGROWTH \nSTRATEGY \nEXECUTION\nCOMMITTED \nTO ATTRACTIVE \nSHAREHOLDERS \nRETURNS\nClosing Remarks\nADNOC Classification: Public ADNOC Classification: Public 23 STRONG CONTINUED EARNINGS GROWTH STRONG EBITDA MARGIN GROWTH STRATEGY EXECUTION COMMITTED TO ATTRACTIVE SHAREHOLDERS RETURNS Closing Remarks",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 48,
+      "page": 22
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "ADNOC Classification: Public\nQ&A",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [],
+    "metadata": {
+      "type": "document",
+      "word_count": 4,
+      "page": 23
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\nADNOC Logistics & Services\nTHANK YOU\nwww.adnocls.ae\nIR@adnocls.ae\nHIGHLY RESTRICTED ADNOC Logistics & Services THANK YOU www.adnocls.ae IR@adnocls.ae",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 20,
+      "page": 24
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\nAPPENDIX",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [],
+    "metadata": {
+      "type": "document",
+      "word_count": 3,
+      "page": 25
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\nADNOC Classification: Public\n27\nRevenue (US$ Million)\nEBITDA (US$ Million)\nNet Profit (US$ Million)\nUS$m\nQ4 23\nQ4 24\nQoQ %\nOffshore \nContracting\n118\n127\n+7%\nOffshore \nServices\n34\n35\n+1%\nOffshore \nProjects\n8\n20\n+156%\nTOTAL\n160\n181\n+13%\nMargin %\n31\n30\n-1pp\nUS$m\nQ4 23\nQ4 24\nQoQ %\nOffshore \nContracting\n87\n86\n-1%\nOffshore \nServices\n23\n14\n-40%\nOffshore \nProjects\n6\n16\n+159%\nTOTAL\n116\n116\n0%\nMargin %\n22\n19\n-3pp\nUS$m\nQ4 23\nQ4 24\nQoQ %\nOffshore \nContracting\n275\n278\n+1%\nOffshore \nServices\n142\n143\n+1%\nOffshore \nProjects\n106\n189\n+78%\nTOTAL\n523\n610\n+17%\nUS$m\nQ4 23\nQ4 24\nQoQ %\nRevenue\n75\n61\n-19%\nEBITDA\n14\n10\n-24%\nEBITDA Margin \n%\n18\n17\n-1pp\nNet Profit\n7\n3\n-55%\nNet Profit \nMargin %\n9\n5\n-4pp\nFinancials (US$ Million)\nUS$m\nQ4 23\nQ4 24\nQoQ %\nTankers\n112\n99\n-11%\nGas Carriers\n53\n42\n-20%\nDry Bulk & \nContainer\n67\n69\n+4%\nTOTAL\n231\n211\n-9%\nRevenue (US$ Million)\nUS$m\nQ4 23\nQ4 24\nQoQ %\nTankers\n41\n36\n-13%\nGas Carriers\n26\n28\n+9%\nDry Bulk & \nContainer\n15\n17\n+12%\nTOTAL\n82\n81\n-1%\nMargin %\n36\n38\n+2pp\nEBITDA (US$ Million)\nUS$m\nQ4 23\nQ4 24\nQoQ %\nTankers\n28\n22\n-23%\nGas Carriers\n18\n18\n-1%\nDry Bulk & \nContainer\n11\n11\n+1%\nTOTAL\n58\n51\n-12%\nMargin %\n25\n24\n-1pp\nNet Profit (US$ Million)\nShipping\nServices\nIntegrated Logistics\nSegmented Quarterly Financials\nHIGHLY RESTRICTED ADNOC Classification: Public 27 Revenue (US$ Million) EBITDA (US$ Million) Net Profit (US$ Million) US$m Q4 23 Q4 24 QoQ % Offshore Contracting 118 127 +7% Offshore Services 34 35 +1% Offshore Projects 8 20 +156% TOTAL 160 181 +13% Margin % 31 30 -1pp\nUS$m Q4 23 Q4 24 QoQ % Offshore Contracting 87 86 -1% Offshore Services 23 14 -40% Offshore Projects 6 16 +159% TOTAL 116 116 0% Margin % 22 19 -3pp\nUS$m Q4 23 Q4 24 QoQ % Offshore Contracting 275 278 +1% Offshore Services 142 143 +1% Offshore Projects 106 189 +78% TOTAL 523 610 +17%",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3",
+      "doc_0_sections_4",
+      "doc_0_sections_5",
+      "doc_0_sections_6",
+      "doc_0_sections_7"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 352,
+      "page": 26
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "US$m Q4 23 Q4 24 QoQ % Revenue 75 61 -19% EBITDA 14 10 -24% EBITDA Margin % 18 17 -1pp Net Profit 7 3 -55% Net Profit Margin % 9 5 -4pp",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Overall Financial Summary",
+      "word_count": 35,
+      "reasoning": "This chunk summarizes overall financial metrics, including revenue, EBITDA, and net profit, providing a high-level view.",
+      "parsing_method": "json_success",
+      "page": 26
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Financials (US$ Million) US$m Q4 23 Q4 24 QoQ % Tankers 112 99 -11% Gas Carriers 53 42 -20% Dry Bulk & Container 67 69 +4% TOTAL 231 211 -9%\nRevenue (US$ Million) US$m Q4 23 Q4 24 QoQ % Tankers 41 36 -13% Gas Carriers 26 28 +9% Dry Bulk & Container 15 17 +12% TOTAL 82 81 -1% Margin % 36 38 +2pp\nEBITDA (US$ Million) US$m Q4 23 Q4 24 QoQ % Tankers 28 22 -23% Gas Carriers 18 18 -1% Dry Bulk & Container 11 11 +1% TOTAL 58 51 -12% Margin % 25 24 -1pp",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Segmented Financials: Revenue",
+      "word_count": 100,
+      "reasoning": "This chunk focuses on segmented financial performance for Tankers, Gas Carriers, and Dry Bulk & Container categories.",
+      "parsing_method": "json_success",
+      "page": 26
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "Net Profit (US$ Million) Shipping Services Integrated Logistics Segmented Quarterly Financials",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Net Profit and Segment Overview",
+      "word_count": 15,
+      "reasoning": "This chunk concludes the document with a brief mention of net profit and segmented financials, wrapping up the analysis.",
+      "parsing_method": "json_success",
+      "page": 26
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\nADNOC Classification: Public\n28\nCrude Tanker Demand and Supply Balance (%)\n7.8\n5.6\n0.9\n1.6\n1.0\n5.0\n3.8\n0.2\n1.0\n2.4\n7.4\n6.6\n1.6\n1.0\n1.3\n2022\n2023\n2024\n2025F\n2026F\nCrude Tanker dwt Demand (%)\nCrude Tanker dwt Supply (%)\nTon-mile % Change\n4.0\n5.4\n5.5\n0.5\n-0.7\n2.6\n2.3\n1.3\n5.8\n6.1\n5.2\n6.9\n8.1\n-0.5\n-0.7\n2022\n2023\n2024\n2025F\n2026F\nProduct Tanker dwt Demand (%)\nProduct Tanker dwt Supply (%)\nTon-mile % Change\nProduct Tanker Demand and Supply Balance (%)\nSource: Clarksons Research, data as at January 2025\nShipping: Demand and Supply Outlook\nHIGHLY RESTRICTED ADNOC Classification: Public 28 Crude Tanker Demand and Supply Balance (%) 7.8 5.6 0.9 1.6 1.0 5.0 3.8 0.2 1.0 2.4 7.4 6.6 1.6 1.0 1.3 2022 2023 2024 2025F 2026F Crude Tanker dwt Demand (%) Crude Tanker dwt Supply (%) Ton-mile % Change\n4.0 5.4 5.5 0.5 -0.7 2.6 2.3 1.3 5.8 6.1 5.2 6.9 8.1 -0.5 -0.7 2022 2023 2024 2025F 2026F Product Tanker dwt Demand (%) Product Tanker dwt Supply (%) Ton-mile % Change Product Tanker Demand and Supply Balance (%) Source: Clarksons Research, data as at January 2025 Shipping: Demand and Supply Outlook",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 198,
+      "page": 27
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\n29\nIntegrated Logistics\nServices\nSegments\nOnshore Services\nSub-\nsegments\nOnshore Services\n(US$ millions)\nFY 24\nFY 23\nRevenue\n127\n107\nEBITDA \n6\n5\nEBITDA Margin\n5%\n5%\n2023\n2024\nShifted1\nOnshore Financials\n1 Onshore Business shifted from Integrated Logistics segment to Services segment in Q3 2024\nOnshore Business:\n•\nKIZAD Operations\n•\nBorouge Container Terminal\n•\nOther Onshore Material Handling\nSegment Restructure of Onshore Services In 2024\nFinancial Impact of Subsegment Reallocation (Non-Material)\nHIGHLY RESTRICTED 29 Integrated Logistics Services Segments Onshore Services Sub-segments Onshore Services (US$ millions) FY 24 FY 23 Revenue 127 107 EBITDA 6 5 EBITDA Margin 5% 5%\n2023 2024 Shifted1 Onshore Financials 1 Onshore Business shifted from Integrated Logistics segment to Services segment in Q3 2024 Onshore Business: • KIZAD Operations • Borouge Container Terminal • Other Onshore Material Handling",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 136,
+      "page": 28
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Segment Restructure of Onshore Services In 2024 Financial Impact of Subsegment Reallocation (Non-Material)",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Restructure and Financial Impact",
+      "word_count": 15,
+      "reasoning": "This chunk highlights the restructuring of Onshore Services in 2024 and notes that the financial impact of the subsegment reallocation is non-material.",
+      "parsing_method": "json_success",
+      "page": 28
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\n30\nIntegrated Logistics\nShipping\nServices\nSegments\nOffshore Services2\nOffshore Contracting1\nOffshore Projects3\nGas Carriers\nTankers4\nDry-bulk & Containers\nSub-segments\nOwned vessels\nTC-in vessels\nCommercial pool \nmanagement\nTechnical management \nand agency\nBunkering (Integr8)\nMarine Services\nOnshore Services\nNavig8\n1 ILSP, H&G, JUBs, Property Leasing & ATN (aids to navigation)\n2 Jetty Ops, Ferries Terminal, various vessel such as DPII, PSVs, Ferry Boats and spot hire of OSVs \n3 EPC (G-island and other minor Projects)\n4 Including ADNOC L&S and Navig8 Tankers\nBusiness Segments Structure Post Navig8 Integration\nHIGHLY RESTRICTED 30 Integrated Logistics Shipping Services Segments Offshore Services2 Offshore Contracting1 Offshore Projects3 Gas Carriers Tankers4 Dry-bulk & Containers\nSub-segments Owned vessels TC-in vessels Commercial pool management Technical management and agency Bunkering (Integr8) Marine Services Onshore Services Navig8",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0",
+      "doc_0_sections_1",
+      "doc_0_sections_2",
+      "doc_0_sections_3"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 127,
+      "page": 29
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "1 ILSP, H&G, JUBs, Property Leasing & ATN (aids to navigation) 2 Jetty Ops, Ferries Terminal, various vessel such as DPII, PSVs, Ferry Boats and spot hire of OSVs",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Offshore Services Details",
+      "word_count": 25,
+      "reasoning": "This chunk provides detailed information about offshore services, including specific operations and vessel types.",
+      "parsing_method": "json_success",
+      "page": 29
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "3 EPC (G-island and other minor Projects) 4 Including ADNOC L&S and Navig8 Tankers Business Segments Structure Post Navig8 Integration",
+    "strategy": "hierarchical_level_1",
+    "level": 1,
+    "parent_id": "doc_0",
+    "children_ids": [],
+    "metadata": {
+      "type": "sections",
+      "title": "Projects and Business Structure Post Integration",
+      "word_count": 20,
+      "reasoning": "This chunk focuses on specific projects and the structural changes following Navig8 integration, ensuring logical flow.",
+      "parsing_method": "json_success",
+      "page": 29
+    }
+  },
+  {
+    "chunk_index": 0,
+    "text": "HIGHLY RESTRICTED\n31\nADNOC L&S SHAREHOLDERS (%)\n81%\nADNOC\nFree Float\n19%\n* As of end January, 2025.\nADNOC L&S Shareholder & Free Float\nHIGHLY RESTRICTED 31 ADNOC L&S SHAREHOLDERS (%) 81% ADNOC Free Float 19% * As of end January, 2025. ADNOC L&S Shareholder & Free Float",
+    "strategy": "hierarchical_level_0",
+    "level": 0,
+    "parent_id": null,
+    "children_ids": [
+      "doc_0_sections_0"
+    ],
+    "metadata": {
+      "type": "document",
+      "word_count": 48,
+      "page": 30
+    }
+  }
+]

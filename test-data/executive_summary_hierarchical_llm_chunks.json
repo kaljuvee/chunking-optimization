@@ -1,0 +1,405 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Executive Summary: Document Processing Optimization Initiative",
+    "strategy": "hierarchical_llm",
+    "tokens": 6,
+    "metadata": {
+      "chunk_size": 6,
+      "word_count": 6,
+      "char_count": 62,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 0
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "Business Context\nOur organization processes thousands of documents daily, requiring efficient and accurate information retrieval systems. Current approaches result in suboptimal performance and user dissatisfaction.",
+    "strategy": "hierarchical_llm",
+    "tokens": 25,
+    "metadata": {
+      "chunk_size": 25,
+      "word_count": 25,
+      "char_count": 215,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 1
+    }
+  },
+  {
+    "chunk_index": 2,
+    "text": "Strategic Objectives",
+    "strategy": "hierarchical_llm",
+    "tokens": 2,
+    "metadata": {
+      "chunk_size": 2,
+      "word_count": 2,
+      "char_count": 20,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 2
+    }
+  },
+  {
+    "chunk_index": 3,
+    "text": "Primary goals include:\n- Improve document retrieval accuracy by 25%\n- Reduce processing time by 40%",
+    "strategy": "hierarchical_llm",
+    "tokens": 16,
+    "metadata": {
+      "chunk_size": 16,
+      "word_count": 16,
+      "char_count": 99,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 3
+    }
+  },
+  {
+    "chunk_index": 4,
+    "text": "- Enhance user satisfaction scores\n- Support multiple document types and formats",
+    "strategy": "hierarchical_llm",
+    "tokens": 12,
+    "metadata": {
+      "chunk_size": 12,
+      "word_count": 12,
+      "char_count": 80,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 4
+    }
+  },
+  {
+    "chunk_index": 5,
+    "text": "Implementation Strategy",
+    "strategy": "hierarchical_llm",
+    "tokens": 2,
+    "metadata": {
+      "chunk_size": 2,
+      "word_count": 2,
+      "char_count": 23,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 5
+    }
+  },
+  {
+    "chunk_index": 6,
+    "text": "Phase 1: Foundation (Months 1-3)",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 32,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 6
+    }
+  },
+  {
+    "chunk_index": 7,
+    "text": "- Deploy semantic chunking capabilities",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 39,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 7
+    }
+  },
+  {
+    "chunk_index": 8,
+    "text": "- Establish baseline performance metrics\n- Train staff on new systems",
+    "strategy": "hierarchical_llm",
+    "tokens": 11,
+    "metadata": {
+      "chunk_size": 11,
+      "word_count": 11,
+      "char_count": 69,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 8
+    }
+  },
+  {
+    "chunk_index": 9,
+    "text": "Phase 2: Optimization (Months 4-6)",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 34,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 9
+    }
+  },
+  {
+    "chunk_index": 10,
+    "text": "- Implement content-aware chunking\n- Fine-tune parameters based on usage patterns\n- Integrate with existing document management systems\nPhase 3: Advanced Features (Months 7-12)",
+    "strategy": "hierarchical_llm",
+    "tokens": 24,
+    "metadata": {
+      "chunk_size": 24,
+      "word_count": 24,
+      "char_count": 176,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 10
+    }
+  },
+  {
+    "chunk_index": 11,
+    "text": "- Deploy hierarchical chunking",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 30,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 11
+    }
+  },
+  {
+    "chunk_index": 12,
+    "text": "- Add multi-modal processing capabilities",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 41,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 12
+    }
+  },
+  {
+    "chunk_index": 13,
+    "text": "- Implement real-time optimization",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 34,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 13
+    }
+  },
+  {
+    "chunk_index": 14,
+    "text": "Expected Outcomes\n- 25% improvement in retrieval accuracy\n- 40% reduction in processing time\n- 30% increase in user satisfaction\n- Support for 5 additional document types",
+    "strategy": "hierarchical_llm",
+    "tokens": 27,
+    "metadata": {
+      "chunk_size": 27,
+      "word_count": 27,
+      "char_count": 170,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 14
+    }
+  },
+  {
+    "chunk_index": 15,
+    "text": "Risk Assessment",
+    "strategy": "hierarchical_llm",
+    "tokens": 2,
+    "metadata": {
+      "chunk_size": 2,
+      "word_count": 2,
+      "char_count": 15,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 15
+    }
+  },
+  {
+    "chunk_index": 16,
+    "text": "Primary risks include:",
+    "strategy": "hierarchical_llm",
+    "tokens": 3,
+    "metadata": {
+      "chunk_size": 3,
+      "word_count": 3,
+      "char_count": 22,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 16
+    }
+  },
+  {
+    "chunk_index": 17,
+    "text": "- Technical implementation challenges",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 37,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 17
+    }
+  },
+  {
+    "chunk_index": 18,
+    "text": "- User adoption resistance",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 26,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 18
+    }
+  },
+  {
+    "chunk_index": 19,
+    "text": "- Performance degradation during transition\n- Integration complexity with existing systems\nMitigation strategies include comprehensive testing, user training programs, and phased deployment approach.",
+    "strategy": "hierarchical_llm",
+    "tokens": 23,
+    "metadata": {
+      "chunk_size": 23,
+      "word_count": 23,
+      "char_count": 199,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 19
+    }
+  },
+  {
+    "chunk_index": 20,
+    "text": "Resource Requirements\n- Technical team: 4 developers, 2 data scientists",
+    "strategy": "hierarchical_llm",
+    "tokens": 10,
+    "metadata": {
+      "chunk_size": 10,
+      "word_count": 10,
+      "char_count": 71,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 20
+    }
+  },
+  {
+    "chunk_index": 21,
+    "text": "- Infrastructure: Cloud computing resources\n- Training: User education and support materials",
+    "strategy": "hierarchical_llm",
+    "tokens": 12,
+    "metadata": {
+      "chunk_size": 12,
+      "word_count": 12,
+      "char_count": 92,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 21
+    }
+  },
+  {
+    "chunk_index": 22,
+    "text": "- Timeline: 12-month implementation period",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 42,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 22
+    }
+  },
+  {
+    "chunk_index": 23,
+    "text": "Success Metrics",
+    "strategy": "hierarchical_llm",
+    "tokens": 2,
+    "metadata": {
+      "chunk_size": 2,
+      "word_count": 2,
+      "char_count": 15,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 23
+    }
+  },
+  {
+    "chunk_index": 24,
+    "text": "Key performance indicators include:",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 35,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 24
+    }
+  },
+  {
+    "chunk_index": 25,
+    "text": "- Document retrieval accuracy",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 29,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 25
+    }
+  },
+  {
+    "chunk_index": 26,
+    "text": "- Processing time per document",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 30,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 26
+    }
+  },
+  {
+    "chunk_index": 27,
+    "text": "- User satisfaction scores",
+    "strategy": "hierarchical_llm",
+    "tokens": 4,
+    "metadata": {
+      "chunk_size": 4,
+      "word_count": 4,
+      "char_count": 26,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 27
+    }
+  },
+  {
+    "chunk_index": 28,
+    "text": "- System uptime and reliability",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 31,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 28
+    }
+  },
+  {
+    "chunk_index": 29,
+    "text": "- Cost per document processed",
+    "strategy": "hierarchical_llm",
+    "tokens": 5,
+    "metadata": {
+      "chunk_size": 5,
+      "word_count": 5,
+      "char_count": 29,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 29
+    }
+  },
+  {
+    "chunk_index": 30,
+    "text": "Conclusion\nThis initiative represents a significant investment in our document processing capabilities. The expected benefits justify the required resources and implementation timeline.",
+    "strategy": "hierarchical_llm",
+    "tokens": 22,
+    "metadata": {
+      "chunk_size": 22,
+      "word_count": 22,
+      "char_count": 185,
+      "strategy_type": "hierarchical_llm",
+      "hierarchy_level": 30
+    }
+  }
+]

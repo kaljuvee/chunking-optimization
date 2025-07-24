@@ -1,0 +1,26 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Executive Summary: Document Processing Optimization Initiative Business Context Our organization processes thousands of documents daily, requiring efficient and accurate information retrieval systems. Current approaches result in suboptimal performance and user dissatisfaction. Strategic Objectives Primary goals include: - Improve document retrieval accuracy by 25% - Reduce processing time by 40% - Enhance user satisfaction scores - Support multiple document types and formats Implementation Strategy Phase 1: Foundation (Months 1-3) - Deploy semantic chunking capabilities - Establish baseline performance metrics - Train staff on new systems Phase 2: Optimization (Months 4-6) - Implement content-aware chunking - Fine-tune parameters based on usage patterns - Integrate with existing document management systems Phase 3: Advanced Features (Months 7-12) - Deploy hierarchical chunking - Add multi-modal processing capabilities - Implement real-time optimization Expected Outcomes - 25% improvement in retrieval accuracy - 40% reduction in processing time - 30% increase in user satisfaction - Support for 5",
+    "strategy": "traditional_fixed",
+    "tokens": 150,
+    "metadata": {
+      "chunk_size": 150,
+      "word_count": 150,
+      "char_count": 1112,
+      "strategy_type": "traditional_fixed"
+    }
+  },
+  {
+    "chunk_index": 1,
+    "text": "additional document types Risk Assessment Primary risks include: - Technical implementation challenges - User adoption resistance - Performance degradation during transition - Integration complexity with existing systems Mitigation strategies include comprehensive testing, user training programs, and phased deployment approach. Resource Requirements - Technical team: 4 developers, 2 data scientists - Infrastructure: Cloud computing resources - Training: User education and support materials - Timeline: 12-month implementation period Success Metrics Key performance indicators include: - Document retrieval accuracy - Processing time per document - User satisfaction scores - System uptime and reliability - Cost per document processed Conclusion This initiative represents a significant investment in our document processing capabilities. The expected benefits justify the required resources and implementation timeline.",
+    "strategy": "traditional_fixed",
+    "tokens": 117,
+    "metadata": {
+      "chunk_size": 150,
+      "word_count": 117,
+      "char_count": 925,
+      "strategy_type": "traditional_fixed"
+    }
+  }
+]
